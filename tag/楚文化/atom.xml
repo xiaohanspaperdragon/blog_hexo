@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
+    <id>https://log.xiaohans.tech</id>
     <title>潇寒的日志 • Posts by &#34;楚文化&#34; tag</title>
-    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
+    <link href="https://log.xiaohans.tech" />
     <updated>2024-12-16T16:00:00.000Z</updated>
     <category term="散文" />
     <category term="月" />
@@ -23,20 +23,20 @@
     <category term="屈原" />
     <category term="楚文化" />
     <category term="计算机" />
-    <category term="建站" />
-    <category term="服务器" />
-    <category term="域名" />
-    <category term="前端" />
-    <category term="旧事重提" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
+    <category term="建站" />
+    <category term="服务器" />
+    <category term="域名" />
+    <category term="电气" />
+    <category term="电气工程" />
+    <category term="前端" />
+    <category term="旧事重提" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/17/qu-yuan-chuang-zuo-feng-ge/</id>
+        <id>https://log.xiaohans.tech/2024/12/17/qu-yuan-chuang-zuo-feng-ge/</id>
         <title>屈原创作风格研究</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/17/qu-yuan-chuang-zuo-feng-ge/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2024/12/17/qu-yuan-chuang-zuo-feng-ge/"/>
         <content type="html">&lt;p&gt;##引言&lt;br /&gt;
 屈原，作为中国古代文学史上的重要人物，以其独特的创作风格和深刻的思想内涵，对中国文学产生了深远的影响。屈原的作品不仅体现了楚地文化的地域特色，也展现了其个人经历与浪漫主义精神的深刻融合。本文将从楚地文化、屈原的经历和浪漫主义风格三个维度，系统分析屈原创作风格的形成及其特点。&lt;/p&gt;
 &lt;blockquote&gt;

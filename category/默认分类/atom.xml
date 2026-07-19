@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
+    <id>https://log.xiaohans.tech</id>
     <title>潇寒的日志 • Posts by &#34;默认分类&#34; category</title>
-    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
+    <link href="https://log.xiaohans.tech" />
     <updated>2025-10-21T16:00:00.000Z</updated>
     <category term="散文" />
     <category term="月" />
@@ -23,20 +23,20 @@
     <category term="屈原" />
     <category term="楚文化" />
     <category term="计算机" />
-    <category term="建站" />
-    <category term="服务器" />
-    <category term="域名" />
-    <category term="前端" />
-    <category term="旧事重提" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
+    <category term="建站" />
+    <category term="服务器" />
+    <category term="域名" />
+    <category term="电气" />
+    <category term="电气工程" />
+    <category term="前端" />
+    <category term="旧事重提" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2025/10/22/xiao-han-bo-ke-qian-yi/</id>
+        <id>https://log.xiaohans.tech/2025/10/22/xiao-han-bo-ke-qian-yi/</id>
         <title>潇寒的学习笔记与技术文章去哪了？</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2025/10/22/xiao-han-bo-ke-qian-yi/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2025/10/22/xiao-han-bo-ke-qian-yi/"/>
         <content type="html">&lt;p&gt;潇寒的所有学习笔记和技术文章已迁移至新站点，本站只分享生活和闲扯&lt;br /&gt;
 &lt;strong&gt;新博客地址：&lt;/strong&gt; &lt;a href=&#34;https://xiaohans.tech&#34;&gt;https://xiaohans.tech&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;博客迁移公告&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客迁移公告&#34;&gt;#&lt;/a&gt; 博客迁移公告&lt;/h1&gt;
@@ -89,9 +89,9 @@
         <updated>2025-10-21T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/12/win11-zhuo-mian-mei-hua-jiao-cheng/</id>
+        <id>https://log.xiaohans.tech/2025/07/12/win11-zhuo-mian-mei-hua-jiao-cheng/</id>
         <title>Win11桌面美化教程</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/12/win11-zhuo-mian-mei-hua-jiao-cheng/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2025/07/12/win11-zhuo-mian-mei-hua-jiao-cheng/"/>
         <content type="html">&lt;h1 id=&#34;成品展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成品展示&#34;&gt;#&lt;/a&gt; 成品展示&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!caution]&lt;br /&gt;

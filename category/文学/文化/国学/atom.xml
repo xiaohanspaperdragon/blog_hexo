@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
+    <id>https://log.xiaohans.tech</id>
     <title>潇寒的日志 • Posts by &#34;文学/文化/国学&#34; category</title>
-    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
+    <link href="https://log.xiaohans.tech" />
     <updated>2026-03-21T16:00:00.000Z</updated>
     <category term="散文" />
     <category term="月" />
@@ -23,20 +23,20 @@
     <category term="屈原" />
     <category term="楚文化" />
     <category term="计算机" />
-    <category term="建站" />
-    <category term="服务器" />
-    <category term="域名" />
-    <category term="前端" />
-    <category term="旧事重提" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
+    <category term="建站" />
+    <category term="服务器" />
+    <category term="域名" />
+    <category term="电气" />
+    <category term="电气工程" />
+    <category term="前端" />
+    <category term="旧事重提" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/03/22/zhong-hua-wen-ming-di-ceng-dai-ma/</id>
+        <id>https://log.xiaohans.tech/2026/03/22/zhong-hua-wen-ming-di-ceng-dai-ma/</id>
         <title>中华文明的底层代码</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/03/22/zhong-hua-wen-ming-di-ceng-dai-ma/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2026/03/22/zhong-hua-wen-ming-di-ceng-dai-ma/"/>
         <content type="html">&lt;p&gt;如果把文明看作一个长期运行的复杂系统，那么一定存在某种“底层代码”。它不写在法律条文里，不完全体现在经典著作中，而是以更隐蔽的方式，渗透在神话、叙事、历史与日常经验之中，代代相传。&lt;/p&gt;
 &lt;p&gt;中华文明之所以能够延续数千年而不断裂，其关键不在某一个制度或思想，而在一套稳定而强韧的“底层运行逻辑”。&lt;/p&gt;
 &lt;p&gt;这套逻辑，大致可以分为三个层次。&lt;/p&gt;
@@ -90,9 +90,9 @@
         <updated>2026-03-21T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/01/17/zai-hua-zhong-yong-shi-zhong-pian/</id>
+        <id>https://log.xiaohans.tech/2026/01/17/zai-hua-zhong-yong-shi-zhong-pian/</id>
         <title>再话中庸：时中篇</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/01/17/zai-hua-zhong-yong-shi-zhong-pian/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2026/01/17/zai-hua-zhong-yong-shi-zhong-pian/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;**《礼记·中庸》**云：君子中庸，小人反中庸。君子之中庸也，君子而时中；小人之中庸也，小人而无忌惮也。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -119,9 +119,9 @@
         <updated>2026-01-16T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2025/12/10/shi-dai-guan-cha-zhe/</id>
+        <id>https://log.xiaohans.tech/2025/12/10/shi-dai-guan-cha-zhe/</id>
         <title>时代观察者-中文世界亚文化地图</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2025/12/10/shi-dai-guan-cha-zhe/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2025/12/10/shi-dai-guan-cha-zhe/"/>
         <content type="html">&lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; &lt;strong&gt;前言&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;如今，中文互联网正处于亚文化爆发的时代。&lt;br /&gt;
 从服饰到二次元，从饭圈到键政，每一种兴趣和情绪都能迅速形成独立群体，生成自己的符号、叙事和身份体系。&lt;br /&gt;
@@ -1735,9 +1735,9 @@
         <updated>2025-12-09T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/17/qu-yuan-chuang-zuo-feng-ge/</id>
+        <id>https://log.xiaohans.tech/2024/12/17/qu-yuan-chuang-zuo-feng-ge/</id>
         <title>屈原创作风格研究</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/17/qu-yuan-chuang-zuo-feng-ge/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2024/12/17/qu-yuan-chuang-zuo-feng-ge/"/>
         <content type="html">&lt;p&gt;##引言&lt;br /&gt;
 屈原，作为中国古代文学史上的重要人物，以其独特的创作风格和深刻的思想内涵，对中国文学产生了深远的影响。屈原的作品不仅体现了楚地文化的地域特色，也展现了其个人经历与浪漫主义精神的深刻融合。本文将从楚地文化、屈原的经历和浪漫主义风格三个维度，系统分析屈原创作风格的形成及其特点。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1775,9 +1775,9 @@
         <updated>2024-12-16T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/15/quan-qiu-hua-wen-hua-zi-xin/</id>
+        <id>https://log.xiaohans.tech/2024/12/15/quan-qiu-hua-wen-hua-zi-xin/</id>
         <title>全球化浪潮中的文化自信与个人的力量——基于中西文化比较视角</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/15/quan-qiu-hua-wen-hua-zi-xin/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2024/12/15/quan-qiu-hua-wen-hua-zi-xin/"/>
         <content type="html">&lt;p&gt;##引言&lt;br /&gt;
 文化是一个国家、一个民族的灵魂。文化自信更成为了国家软实力的重要组成部分。但随着全球化的日益加剧，它作为一个席卷世界级的浪潮，深刻地渗透、影响着世界政治、经济、文化、社会发展的各个方面。不同文化之间的交流碰撞愈发频繁，文化自信不仅关乎一个国家或民族对自己文化的认同感和自豪感，更影响着其在全球舞台上的形象塑造和发展方向，以及以什么样的姿态立于世界民族之林。正所谓：“只有民族的，才是世界的。”我们既要尊重世界文化的多样性，兼收并蓄、“和而不同”；也要积极地挖掘中华文明上下五千年来浩瀚的文化资源，坚定民族文化发展的个性，坚定文化自信。因此，理解和培养文化自信对于当代社会具有重要的现实意义。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1820,9 +1820,9 @@
         <updated>2024-12-14T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2024/11/20/di-yu-yu-yue/</id>
+        <id>https://log.xiaohans.tech/2024/11/20/di-yu-yu-yue/</id>
         <title>帝禹与月</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2024/11/20/di-yu-yu-yue/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2024/11/20/di-yu-yu-yue/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;文章作者：潇寒paper龙&lt;br /&gt;
 版权声明：&lt;br /&gt;
@@ -1859,9 +1859,9 @@
         <updated>2024-11-19T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2024/08/27/lun-zhong-yong-zhi-dao/</id>
+        <id>https://log.xiaohans.tech/2024/08/27/lun-zhong-yong-zhi-dao/</id>
         <title>论中庸之道</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2024/08/27/lun-zhong-yong-zhi-dao/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2024/08/27/lun-zhong-yong-zhi-dao/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;子程子日:”不偏之谓中，不易之谓庸；中者，天下之正道，庸者，天下之定理。”中庸之中是不偏不倚，是适度适中、正确，无过无不及而恰到好处；是合宜、合理，无所偏倚而恰如其分；是中正、公正而合乎天理人情的正道。当代青年应秉持中庸之道，不偏不倚、不温不火，折中调和，以修身养性，立身于世。&lt;/p&gt;
 &lt;/blockquote&gt;

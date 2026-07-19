@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>潇寒的日志 • Posts by &#34;开发工具&#34; category</title>
-        <link>https://xiaohanspaperdragon.github.io/blog_hexo</link>
+        <link>https://log.xiaohans.tech</link>
         <description>潇寒paper龙的个人blog,记录我的互联网生活,分享我的文章、日常、动态</description>
         <language>zh-CN</language>
         <pubDate>Fri, 25 Jul 2025 00:00:00 +0800</pubDate>
@@ -26,20 +26,20 @@
         <category>屈原</category>
         <category>楚文化</category>
         <category>计算机</category>
-        <category>建站</category>
-        <category>服务器</category>
-        <category>域名</category>
-        <category>前端</category>
-        <category>旧事重提</category>
-        <category>电气</category>
-        <category>电气工程</category>
         <category>开发工具</category>
         <category>markdown</category>
         <category>笔记</category>
+        <category>建站</category>
+        <category>服务器</category>
+        <category>域名</category>
+        <category>电气</category>
+        <category>电气工程</category>
+        <category>前端</category>
+        <category>旧事重提</category>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</guid>
             <title>告别重复劳动，让你秒开Edge工作区!</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</link>
+            <link>https://log.xiaohans.tech/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</link>
             <category>Edge</category>
             <category>浏览器</category>
             <category>工具</category>
@@ -152,9 +152,9 @@ D --&amp;gt; E[权限管理]&lt;br /&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/01/24/tong-yong-pai-ban-markdown/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/01/24/tong-yong-pai-ban-markdown/</guid>
             <title>通用排版-Markdown</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/01/24/tong-yong-pai-ban-markdown/</link>
+            <link>https://log.xiaohans.tech/2025/01/24/tong-yong-pai-ban-markdown/</link>
             <category>计算机</category>
             <category>开发工具</category>
             <category>markdown</category>

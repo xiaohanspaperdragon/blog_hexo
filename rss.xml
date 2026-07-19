@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>潇寒的日志</title>
-        <link>https://xiaohanspaperdragon.github.io/blog_hexo</link>
+        <link>https://log.xiaohans.tech</link>
         <description>潇寒paper龙的个人blog,记录我的互联网生活,分享我的文章、日常、动态</description>
         <language>zh-CN</language>
         <pubDate>Sun, 19 Jul 2026 19:21:10 +0800</pubDate>
@@ -26,20 +26,20 @@
         <category>屈原</category>
         <category>楚文化</category>
         <category>计算机</category>
-        <category>建站</category>
-        <category>服务器</category>
-        <category>域名</category>
-        <category>前端</category>
-        <category>旧事重提</category>
-        <category>电气</category>
-        <category>电气工程</category>
         <category>开发工具</category>
         <category>markdown</category>
         <category>笔记</category>
+        <category>建站</category>
+        <category>服务器</category>
+        <category>域名</category>
+        <category>电气</category>
+        <category>电气工程</category>
+        <category>前端</category>
+        <category>旧事重提</category>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/07/19/hello-world/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/07/19/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/07/19/hello-world/</link>
+            <link>https://log.xiaohans.tech/2026/07/19/hello-world/</link>
             <pubDate>Sun, 19 Jul 2026 19:21:10 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
@@ -58,9 +58,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/14/pi-wu-nao-fan-man-qing/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/05/14/pi-wu-nao-fan-man-qing/</guid>
             <title>批无脑反满清的思潮：谁在用民族矛盾掩盖真正的问题</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/14/pi-wu-nao-fan-man-qing/</link>
+            <link>https://log.xiaohans.tech/2026/05/14/pi-wu-nao-fan-man-qing/</link>
             <pubDate>Thu, 14 May 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;最近一两年，中文互联网突然出现了一股奇怪的风向：反满清情绪被重新包装、重新点燃、重新推上舆论场。更诡异的是，这股情绪并不是在讨论历史，也不是在反思制度，而是把近代中国落后的全部责任，简单粗暴地塞给一个已经消失百年的王朝。仿佛只要把满清骂得够狠，近代中国的所有问题就能自动解释，现实社会的所有矛盾也能自动消失。&lt;/p&gt;
 &lt;p&gt;这种叙事的最大问题，是它把历史复杂性压扁成一个情绪出口。近代落后？怪满清。工业化失败？怪满清。辛亥革命没带来强国？怪满清。民国军阀混战？还是怪满清。甚至到了今天，社会上出现任何问题，都能被某些人解释成“满遗阴谋”。这种逻辑的便利性在于，它不需要理解历史，也不需要面对现实，只需要一个可以随时发泄的“替罪羊”。&lt;/p&gt;
@@ -75,9 +75,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/11/er-ci-yuan-shi-ge-kuang/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/05/11/er-ci-yuan-shi-ge-kuang/</guid>
             <title>二次元是个筐，啥病都能往里装——批网上的反智评论</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/11/er-ci-yuan-shi-ge-kuang/</link>
+            <link>https://log.xiaohans.tech/2026/05/11/er-ci-yuan-shi-ge-kuang/</link>
             <pubDate>Mon, 11 May 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;“总算有家长敢于直言二次元的不良影响了”——看看，评论区里这位高赞发言，字里行间那股“众人皆醉我独醒”的悲壮感，仿佛这位家长不是去商场投诉，而是堵了枪眼。&lt;/p&gt;
 &lt;p&gt;好家伙。一个孩子逃课、花钱、脾气大，不先问问自己家里多久没好好跟孩子吃顿饭了，不反思一下自己是不是除了给钱就是骂人，上来就给“二次元文化”定了性——毒害。这招高明啊。甩锅给一个虚拟世界，比照镜子容易多了。&lt;/p&gt;
@@ -94,9 +94,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/07/aishiteru-no-tegami/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/05/07/aishiteru-no-tegami/</guid>
             <title>愛してるの手紙</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/07/aishiteru-no-tegami/</link>
+            <link>https://log.xiaohans.tech/2026/05/07/aishiteru-no-tegami/</link>
             <pubDate>Thu, 07 May 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;親愛なる、ギルベルト少佐&lt;/p&gt;
 &lt;p&gt;お元気ですか、お変わりないですか。今何処にいらっしゃいますか。困ったことはありませんか。&lt;/p&gt;
@@ -116,9 +116,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/23/kua-ban-ben-yin-xiang/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/04/23/kua-ban-ben-yin-xiang/</guid>
             <title>跨版本印象</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/23/kua-ban-ben-yin-xiang/</link>
+            <link>https://log.xiaohans.tech/2026/04/23/kua-ban-ben-yin-xiang/</link>
             <category>我的世界</category>
             <category>MC</category>
             <category>Minecraft</category>
@@ -173,9 +173,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/22/shou-kua-ban-ben-zhi-bian/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/04/22/shou-kua-ban-ben-zhi-bian/</guid>
             <title>首跨版本之变</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/22/shou-kua-ban-ben-zhi-bian/</link>
+            <link>https://log.xiaohans.tech/2026/04/22/shou-kua-ban-ben-zhi-bian/</link>
             <pubDate>Wed, 22 Apr 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Minecraft&lt;strong&gt;水域更新&lt;/strong&gt;是第一次跨版本更新，在水域更新之后，我已经很久没有真正“肝”过一段纯生存了。若说原因，大概也只能用一句“时也，运也”来概括，细想下来，无非两三点。&lt;/p&gt;
 &lt;p&gt;其一，是2017年前后中国大陆正版环境的变化。Minecraft被网易代理上线后，曾经陪伴童年的平台——多玩我的世界盒子、我的世界联机盒子——相继关停，一众盗版渠道也随之消失。那些年积累的存档、皮肤、材质包与光影，一夜之间仿佛被时代清空。说到底，这也是版权规范化的必然结果。起初我对中国版抱有不小的期待，而时至今日，它对于一些没有条件接触国际版的学生来说，依然算是一个可行的入口，尽管优化等问题始终存在，但那已是后话。&lt;/p&gt;
@@ -185,9 +185,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/18/du-te-ri-er-mao-ze-dong-zhuan/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/04/18/du-te-ri-er-mao-ze-dong-zhuan/</guid>
             <title>读特里尔版《毛泽东传》</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/18/du-te-ri-er-mao-ze-dong-zhuan/</link>
+            <link>https://log.xiaohans.tech/2026/04/18/du-te-ri-er-mao-ze-dong-zhuan/</link>
             <pubDate>Sat, 18 Apr 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;对于伟人的认知，若停留于简单的颂扬或粗暴的否定，往往都会失之偏颇。“神格化”使其脱离人间烟火，“脸谱化”则将其压缩为单一符号，二者看似对立，实则同样遮蔽了历史的真实肌理。特里尔版《毛泽东传》之所以被视为经典，恰在于作者罗斯·特里尔试图以相对冷静的外部视角，穿透意识形态的滤镜，还原一个复杂、多面且不断变化的历史人物。书中的毛泽东，既非神祇，亦非符号，而是一个在具体历史处境中不断试错、修正与跃迁的革命者与思想者。正如孟子所言：“颂其诗，读其书，不知其人，可乎？是以论其世也。”对这部传记的阅读，本质上正是一场“知其人、论其世”的思想训练。&lt;/p&gt;
 &lt;hr /&gt;
@@ -211,9 +211,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/15/liu-huang-shi-lai-mu/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/04/15/liu-huang-shi-lai-mu/</guid>
             <title>硫磺史莱姆</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/15/liu-huang-shi-lai-mu/</link>
+            <link>https://log.xiaohans.tech/2026/04/15/liu-huang-shi-lai-mu/</link>
             <pubDate>Wed, 15 Apr 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;混沌立方（Chaos Cubed&lt;/strong&gt; 是即将到来的一次&lt;a href=&#34;https://zh.minecraft.wiki/w/%E5%B0%8F%E6%9B%B4%E6%96%B0&#34; title=&#34;小更新&#34;&gt;小更新&lt;/a&gt;，发布时间待定。更新以&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E9%BB%84%E6%B4%9E%E7%A9%B4&#34; title=&#34;硫黄洞穴&#34;&gt;硫黄洞穴&lt;/a&gt;生物群系为主，包含各种&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E9%BB%84&#34; title=&#34;硫黄&#34;&gt;硫黄&lt;/a&gt;方块和特性，以及全新的生物&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E6%96%B9%E6%80%AA&#34; title=&#34;硫方怪&#34;&gt;硫方怪&lt;/a&gt;&lt;/p&gt;
@@ -244,9 +244,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/11/wo-bu-ming-bai/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/04/11/wo-bu-ming-bai/</guid>
             <title>我不明白</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/11/wo-bu-ming-bai/</link>
+            <link>https://log.xiaohans.tech/2026/04/11/wo-bu-ming-bai/</link>
             <pubDate>Sat, 11 Apr 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;本文是《大决战之淮海战役》中蒋介石的台词，抖音政史圈三大段子之一，实称为抖音名篇之一。在影片中，由赵恒多饰演的蒋介石在淮海战役前，面对将领们的悲观情绪，在徐州发表讲话时说出了这句台词：“我不明白，为什么大家都在谈论着项羽被困垓下，仿佛这中原古战场对于我们注定了凶多吉少……”。由于其独特的口音和与战役结局的强烈反差，这句台词在网络上广为流传，常与“优势在我”等梗一同出现。视频中蒋操着一口奉化口音，感觉着实有趣，遂摘录之。&lt;/p&gt;
@@ -261,9 +261,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/02/heng-xing-si-qu-zhi-hou/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/04/02/heng-xing-si-qu-zhi-hou/</guid>
             <title>恒星死去之后，我诞生</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/02/heng-xing-si-qu-zhi-hou/</link>
+            <link>https://log.xiaohans.tech/2026/04/02/heng-xing-si-qu-zhi-hou/</link>
             <pubDate>Thu, 02 Apr 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;仰望&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#仰望&#34;&gt;#&lt;/a&gt; 仰望&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -291,9 +291,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/03/31/pvz-jing-dian-yi-jiu/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/03/31/pvz-jing-dian-yi-jiu/</guid>
             <title>pvz:经典依旧</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/03/31/pvz-jing-dian-yi-jiu/</link>
+            <link>https://log.xiaohans.tech/2026/03/31/pvz-jing-dian-yi-jiu/</link>
             <pubDate>Tue, 31 Mar 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#序&#34;&gt;#&lt;/a&gt; 序&lt;/h2&gt;
 &lt;p&gt;十二年前，只打到了银杯。&lt;br /&gt;
@@ -345,9 +345,9 @@ MAin MEnu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/03/22/zhong-hua-wen-ming-di-ceng-dai-ma/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/03/22/zhong-hua-wen-ming-di-ceng-dai-ma/</guid>
             <title>中华文明的底层代码</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/03/22/zhong-hua-wen-ming-di-ceng-dai-ma/</link>
+            <link>https://log.xiaohans.tech/2026/03/22/zhong-hua-wen-ming-di-ceng-dai-ma/</link>
             <pubDate>Sun, 22 Mar 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;如果把文明看作一个长期运行的复杂系统，那么一定存在某种“底层代码”。它不写在法律条文里，不完全体现在经典著作中，而是以更隐蔽的方式，渗透在神话、叙事、历史与日常经验之中，代代相传。&lt;/p&gt;
 &lt;p&gt;中华文明之所以能够延续数千年而不断裂，其关键不在某一个制度或思想，而在一套稳定而强韧的“底层运行逻辑”。&lt;/p&gt;
@@ -401,9 +401,9 @@ MAin MEnu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2026/01/17/zai-hua-zhong-yong-shi-zhong-pian/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2026/01/17/zai-hua-zhong-yong-shi-zhong-pian/</guid>
             <title>再话中庸：时中篇</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2026/01/17/zai-hua-zhong-yong-shi-zhong-pian/</link>
+            <link>https://log.xiaohans.tech/2026/01/17/zai-hua-zhong-yong-shi-zhong-pian/</link>
             <pubDate>Sat, 17 Jan 2026 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;**《礼记·中庸》**云：君子中庸，小人反中庸。君子之中庸也，君子而时中；小人之中庸也，小人而无忌惮也。&lt;/p&gt;
@@ -430,9 +430,9 @@ MAin MEnu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/12/10/shi-dai-guan-cha-zhe/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/12/10/shi-dai-guan-cha-zhe/</guid>
             <title>时代观察者-中文世界亚文化地图</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/12/10/shi-dai-guan-cha-zhe/</link>
+            <link>https://log.xiaohans.tech/2025/12/10/shi-dai-guan-cha-zhe/</link>
             <pubDate>Wed, 10 Dec 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; &lt;strong&gt;前言&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;如今，中文互联网正处于亚文化爆发的时代。&lt;br /&gt;
@@ -2046,9 +2046,9 @@ MAin MEnu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/12/09/xu-ni-guo-yu-jian-zheng-quan/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/12/09/xu-ni-guo-yu-jian-zheng-quan/</guid>
             <title>虚拟国与键政圈以及&#34;喷系的入侵&#34;</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/12/09/xu-ni-guo-yu-jian-zheng-quan/</link>
+            <link>https://log.xiaohans.tech/2025/12/09/xu-ni-guo-yu-jian-zheng-quan/</link>
             <pubDate>Tue, 09 Dec 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;前言个人经历&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言个人经历&#34;&gt;#&lt;/a&gt; 前言（个人经历）&lt;/h2&gt;
 &lt;p&gt;2020年，新型冠状病毒肺炎疫情爆发。大家不得已居家学习办公。疫情在家属实无聊，唯一有兴趣的就是上网冲浪。我也是这一时期，加了一个关于MC的微信群，众所周知，有一些方块人的活力实在是无限的，很多pvp的玩家建立了各种公会，到处招募人才来壮大自己的队伍，然后各个公会就在很多服务器上进行pvp技术的对决。&lt;/p&gt;
@@ -2161,9 +2161,9 @@ MAin MEnu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/26/di-yuan-qi-ju-zhong-ri-guan-xi/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/11/26/di-yuan-qi-ju-zhong-ri-guan-xi/</guid>
             <title>地缘棋局：浅谈中日关系</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/26/di-yuan-qi-ju-zhong-ri-guan-xi/</link>
+            <link>https://log.xiaohans.tech/2025/11/26/di-yuan-qi-ju-zhong-ri-guan-xi/</link>
             <pubDate>Wed, 26 Nov 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;中日是一衣带水的邻居，也是一对解不开的地缘对手。&lt;br /&gt;
 中国，地大物博，几千年来政治经济文化军事都处于世界领先地位，一直是东亚大陆的主导者，只不过近代出了一些意外。而日本地为岛国，如今粮食和能源自给率严重不足，火山、地震、海啸几乎天天都有，地理环境不可谓不恶劣。&lt;/p&gt;
@@ -2224,9 +2224,9 @@ MAin MEnu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/23/liang-zi-jiu-chan-yu-shi-dai-qing-nian/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/11/23/liang-zi-jiu-chan-yu-shi-dai-qing-nian/</guid>
             <title>量子纠缠与时代青年：在不确定中寻找确定</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/23/liang-zi-jiu-chan-yu-shi-dai-qing-nian/</link>
+            <link>https://log.xiaohans.tech/2025/11/23/liang-zi-jiu-chan-yu-shi-dai-qing-nian/</link>
             <pubDate>Sun, 23 Nov 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;摘要&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#摘要&#34;&gt;#&lt;/a&gt; 摘要&lt;/h2&gt;
 &lt;p&gt;量子纠缠这一深刻且颠覆性的物理概念，不仅改变了人类对微观世界的理解，也以一种隐秘而强大的方式影响着现代科技、社会结构与青年心态。当我们从《从爱因斯坦到霍金的宇宙》这门课程回望整部科学史，会发现：科学家在混沌中寻找规律、在不确定中寻找确定的探索精神，与新时代青年面对快速变化的世界时所需要的气质惊人地相似。本文试图从量子纠缠的科学内涵与应用出发，结合爱因斯坦、霍金等科学大师的经历，讨论量子思想如何映照现代社会的不确定性，并思考新时代青年如何在这种不确定性中找到属于自己的“相干态”。&lt;/p&gt;
@@ -2334,9 +2334,9 @@ MAin MEnu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/21/wo-de-MC-shi-nian/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/11/21/wo-de-MC-shi-nian/</guid>
             <title>我的MC十年：2015.11-2025.11.1</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/21/wo-de-MC-shi-nian/</link>
+            <link>https://log.xiaohans.tech/2025/11/21/wo-de-MC-shi-nian/</link>
             <pubDate>Fri, 21 Nov 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;方块树上方块果，方块树下你和我。&lt;/p&gt;
@@ -2386,9 +2386,9 @@ MAin MEnu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/10/22/xiao-han-bo-ke-qian-yi/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/10/22/xiao-han-bo-ke-qian-yi/</guid>
             <title>潇寒的学习笔记与技术文章去哪了？</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/10/22/xiao-han-bo-ke-qian-yi/</link>
+            <link>https://log.xiaohans.tech/2025/10/22/xiao-han-bo-ke-qian-yi/</link>
             <pubDate>Wed, 22 Oct 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;潇寒的所有学习笔记和技术文章已迁移至新站点，本站只分享生活和闲扯&lt;br /&gt;
 &lt;strong&gt;新博客地址：&lt;/strong&gt; &lt;a href=&#34;https://xiaohans.tech&#34;&gt;https://xiaohans.tech&lt;/a&gt;&lt;/p&gt;
@@ -2441,9 +2441,9 @@ MAin MEnu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</guid>
             <title>告别重复劳动，让你秒开Edge工作区!</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</link>
+            <link>https://log.xiaohans.tech/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</link>
             <category>Edge</category>
             <category>浏览器</category>
             <category>工具</category>
@@ -2556,9 +2556,9 @@ D --&amp;gt; E[权限管理]&lt;br /&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/12/win11-zhuo-mian-mei-hua-jiao-cheng/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/07/12/win11-zhuo-mian-mei-hua-jiao-cheng/</guid>
             <title>Win11桌面美化教程</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/12/win11-zhuo-mian-mei-hua-jiao-cheng/</link>
+            <link>https://log.xiaohans.tech/2025/07/12/win11-zhuo-mian-mei-hua-jiao-cheng/</link>
             <pubDate>Sat, 12 Jul 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;成品展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成品展示&#34;&gt;#&lt;/a&gt; 成品展示&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -2691,9 +2691,9 @@ D --&amp;gt; E[权限管理]&lt;br /&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/02/12/xin-shou-jian-zhan-zhi-nan/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/02/12/xin-shou-jian-zhan-zhi-nan/</guid>
             <title>新手建站指南</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/02/12/xin-shou-jian-zhan-zhi-nan/</link>
+            <link>https://log.xiaohans.tech/2025/02/12/xin-shou-jian-zhan-zhi-nan/</link>
             <category>计算机</category>
             <category>建站</category>
             <category>服务器</category>
@@ -2895,9 +2895,9 @@ AAAA：将域名指向一个IPV6地址&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2025/01/24/tong-yong-pai-ban-markdown/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2025/01/24/tong-yong-pai-ban-markdown/</guid>
             <title>通用排版-Markdown</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2025/01/24/tong-yong-pai-ban-markdown/</link>
+            <link>https://log.xiaohans.tech/2025/01/24/tong-yong-pai-ban-markdown/</link>
             <category>计算机</category>
             <category>开发工具</category>
             <category>markdown</category>
@@ -3041,9 +3041,9 @@ AAAA：将域名指向一个IPV6地址&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/18/zhong-guo-dian-qi-gong-cheng/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2024/12/18/zhong-guo-dian-qi-gong-cheng/</guid>
             <title>中国电气工程发展与可再生能源创新应用的赛博报告</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/18/zhong-guo-dian-qi-gong-cheng/</link>
+            <link>https://log.xiaohans.tech/2024/12/18/zhong-guo-dian-qi-gong-cheng/</link>
             <category>电气</category>
             <category>电气工程</category>
             <pubDate>Wed, 18 Dec 2024 00:00:00 +0800</pubDate>
@@ -3150,9 +3150,9 @@ MRI应用 –百度百科&lt;br /&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/17/qu-yuan-chuang-zuo-feng-ge/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2024/12/17/qu-yuan-chuang-zuo-feng-ge/</guid>
             <title>屈原创作风格研究</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/17/qu-yuan-chuang-zuo-feng-ge/</link>
+            <link>https://log.xiaohans.tech/2024/12/17/qu-yuan-chuang-zuo-feng-ge/</link>
             <category>文学文化</category>
             <category>屈原</category>
             <category>楚文化</category>
@@ -3190,9 +3190,9 @@ MRI应用 –百度百科&lt;br /&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/15/quan-qiu-hua-wen-hua-zi-xin/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2024/12/15/quan-qiu-hua-wen-hua-zi-xin/</guid>
             <title>全球化浪潮中的文化自信与个人的力量——基于中西文化比较视角</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/15/quan-qiu-hua-wen-hua-zi-xin/</link>
+            <link>https://log.xiaohans.tech/2024/12/15/quan-qiu-hua-wen-hua-zi-xin/</link>
             <category>文学文化</category>
             <category>中西文化比较</category>
             <pubDate>Sun, 15 Dec 2024 00:00:00 +0800</pubDate>
@@ -3235,9 +3235,9 @@ MRI应用 –百度百科&lt;br /&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2024/11/20/di-yu-yu-yue/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2024/11/20/di-yu-yu-yue/</guid>
             <title>帝禹与月</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2024/11/20/di-yu-yu-yue/</link>
+            <link>https://log.xiaohans.tech/2024/11/20/di-yu-yu-yue/</link>
             <category>散文</category>
             <category>月</category>
             <category>帝禹</category>
@@ -3274,9 +3274,9 @@ MRI应用 –百度百科&lt;br /&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2024/10/31/zhong-xue-shi-de-meng-xiang-qian-duan/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2024/10/31/zhong-xue-shi-de-meng-xiang-qian-duan/</guid>
             <title>中学时的梦想-前端工程师</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2024/10/31/zhong-xue-shi-de-meng-xiang-qian-duan/</link>
+            <link>https://log.xiaohans.tech/2024/10/31/zhong-xue-shi-de-meng-xiang-qian-duan/</link>
             <category>前端</category>
             <category>旧事重提</category>
             <pubDate>Thu, 31 Oct 2024 00:00:00 +0800</pubDate>
@@ -3326,9 +3326,9 @@ MRI应用 –百度百科&lt;br /&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2024/08/27/lun-zhong-yong-zhi-dao/</guid>
+            <guid isPermalink="true">https://log.xiaohans.tech/2024/08/27/lun-zhong-yong-zhi-dao/</guid>
             <title>论中庸之道</title>
-            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2024/08/27/lun-zhong-yong-zhi-dao/</link>
+            <link>https://log.xiaohans.tech/2024/08/27/lun-zhong-yong-zhi-dao/</link>
             <category>文学文化</category>
             <category>国学</category>
             <category>中庸</category>

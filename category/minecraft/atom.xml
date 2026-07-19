@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
+    <id>https://log.xiaohans.tech</id>
     <title>潇寒的日志 • Posts by &#34;minecraft&#34; category</title>
-    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
+    <link href="https://log.xiaohans.tech" />
     <updated>2026-04-22T16:00:00.000Z</updated>
     <category term="散文" />
     <category term="月" />
@@ -23,20 +23,20 @@
     <category term="屈原" />
     <category term="楚文化" />
     <category term="计算机" />
-    <category term="建站" />
-    <category term="服务器" />
-    <category term="域名" />
-    <category term="前端" />
-    <category term="旧事重提" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
+    <category term="建站" />
+    <category term="服务器" />
+    <category term="域名" />
+    <category term="电气" />
+    <category term="电气工程" />
+    <category term="前端" />
+    <category term="旧事重提" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/23/kua-ban-ben-yin-xiang/</id>
+        <id>https://log.xiaohans.tech/2026/04/23/kua-ban-ben-yin-xiang/</id>
         <title>跨版本印象</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/23/kua-ban-ben-yin-xiang/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2026/04/23/kua-ban-ben-yin-xiang/"/>
         <content type="html">&lt;p&gt;话接上文《首跨版本之变》，这一篇就简单说说我对 Minecraft 继水域更新之后，各个跨版本更新的印象。&lt;/p&gt;
 &lt;p&gt;很多具体机制在 wiki 上都能查到，&lt;a href=&#34;https://zh.minecraft.wiki/w/%E6%B0%B4%E5%9F%9F%E6%9B%B4%E6%96%B0&#34;&gt;中文 Minecraft wiki&lt;/a&gt; 里写得很详细，太过细碎和专业的东西我就不多赘述了。&lt;/p&gt;
 &lt;h2 id=&#34;水域更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#水域更新&#34;&gt;#&lt;/a&gt; 水域更新&lt;/h2&gt;
@@ -91,9 +91,9 @@
         <updated>2026-04-22T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/22/shou-kua-ban-ben-zhi-bian/</id>
+        <id>https://log.xiaohans.tech/2026/04/22/shou-kua-ban-ben-zhi-bian/</id>
         <title>首跨版本之变</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/22/shou-kua-ban-ben-zhi-bian/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2026/04/22/shou-kua-ban-ben-zhi-bian/"/>
         <content type="html">&lt;p&gt;Minecraft&lt;strong&gt;水域更新&lt;/strong&gt;是第一次跨版本更新，在水域更新之后，我已经很久没有真正“肝”过一段纯生存了。若说原因，大概也只能用一句“时也，运也”来概括，细想下来，无非两三点。&lt;/p&gt;
 &lt;p&gt;其一，是2017年前后中国大陆正版环境的变化。Minecraft被网易代理上线后，曾经陪伴童年的平台——多玩我的世界盒子、我的世界联机盒子——相继关停，一众盗版渠道也随之消失。那些年积累的存档、皮肤、材质包与光影，一夜之间仿佛被时代清空。说到底，这也是版权规范化的必然结果。起初我对中国版抱有不小的期待，而时至今日，它对于一些没有条件接触国际版的学生来说，依然算是一个可行的入口，尽管优化等问题始终存在，但那已是后话。&lt;/p&gt;
 &lt;p&gt;其二，是人生阶段的更替——我升入了初中。家在三四线小城，教育氛围谈不上精致，却异常“用力”。无论家庭条件如何、成绩优劣，几乎所有人都被裹挟进补课的洪流。周末往往被切割成密不透风的时间块，上午、下午轮番上阵，游戏自然成了被牺牲的对象。不是不想玩，而是无暇再玩。&lt;/p&gt;
@@ -103,9 +103,9 @@
         <updated>2026-04-21T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/15/liu-huang-shi-lai-mu/</id>
+        <id>https://log.xiaohans.tech/2026/04/15/liu-huang-shi-lai-mu/</id>
         <title>硫磺史莱姆</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/15/liu-huang-shi-lai-mu/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2026/04/15/liu-huang-shi-lai-mu/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;混沌立方（Chaos Cubed&lt;/strong&gt; 是即将到来的一次&lt;a href=&#34;https://zh.minecraft.wiki/w/%E5%B0%8F%E6%9B%B4%E6%96%B0&#34; title=&#34;小更新&#34;&gt;小更新&lt;/a&gt;，发布时间待定。更新以&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E9%BB%84%E6%B4%9E%E7%A9%B4&#34; title=&#34;硫黄洞穴&#34;&gt;硫黄洞穴&lt;/a&gt;生物群系为主，包含各种&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E9%BB%84&#34; title=&#34;硫黄&#34;&gt;硫黄&lt;/a&gt;方块和特性，以及全新的生物&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E6%96%B9%E6%80%AA&#34; title=&#34;硫方怪&#34;&gt;硫方怪&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -136,9 +136,9 @@
         <updated>2026-04-14T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/21/wo-de-MC-shi-nian/</id>
+        <id>https://log.xiaohans.tech/2025/11/21/wo-de-MC-shi-nian/</id>
         <title>我的MC十年：2015.11-2025.11.1</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/21/wo-de-MC-shi-nian/"/>
+        <link rel="alternate" href="https://log.xiaohans.tech/2025/11/21/wo-de-MC-shi-nian/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;方块树上方块果，方块树下你和我。&lt;/p&gt;
 &lt;/blockquote&gt;
