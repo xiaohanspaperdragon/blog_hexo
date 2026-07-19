@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>潇寒的日志 • Posts by &#34;浏览器&#34; tag</title>
+        <link>https://xiaohanspaperdragon.github.io</link>
+        <description>潇寒paper龙的个人blog,记录我的互联网生活,分享我的文章、日常、动态</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 25 Jul 2025 00:00:00 +0800</pubDate>
+        <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0800</lastBuildDate>
+        <category>Edge</category>
+        <category>浏览器</category>
+        <category>工具</category>
+        <category>散文</category>
+        <category>月</category>
+        <category>帝禹</category>
+        <category>文学</category>
+        <category>文学文化</category>
+        <category>国学</category>
+        <category>中庸</category>
+        <category>四书五经</category>
+        <category>四书</category>
+        <category>我的世界</category>
+        <category>MC</category>
+        <category>Minecraft</category>
+        <category>屈原</category>
+        <category>楚文化</category>
+        <category>中西文化比较</category>
+        <category>计算机</category>
+        <category>建站</category>
+        <category>服务器</category>
+        <category>域名</category>
+        <category>电气</category>
+        <category>电气工程</category>
+        <category>前端</category>
+        <category>旧事重提</category>
+        <category>开发工具</category>
+        <category>markdown</category>
+        <category>笔记</category>
+        <item>
+            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</guid>
+            <title>告别重复劳动，让你秒开Edge工作区!</title>
+            <link>https://xiaohanspaperdragon.github.io/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</link>
+            <category>Edge</category>
+            <category>浏览器</category>
+            <category>工具</category>
+            <pubDate>Fri, 25 Jul 2025 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;[!question] 引文&lt;br /&gt;
+在日常工作中，许多专业人士都面临着浏览器标签页管理的痛点：每天需要反复打开相同的十几个网页，手动操作既费时又容易遗漏；当电脑因内存问题必须重启时，所有工作页面都需要重新加载，严重影响工作效率；不同项目的网页混杂在一起，难以快速切换工作场景。微软Edge浏览器的「工作区」功能，正是为解决这些问题而设计的专业级解决方案&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;一-核心痛点分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-核心痛点分析&#34;&gt;#&lt;/a&gt; 一、核心痛点分析&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!note] 现状调研&lt;br /&gt;
+根据用户行为分析，我们识别出三大核心痛点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;重复劳动&lt;/strong&gt;：日均重复加载12-18个高频网页&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;状态丢失&lt;/strong&gt;：系统重启导致工作流中断&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;场景混乱&lt;/strong&gt;：多项目资源混杂管理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;lt;div style=&amp;quot;float: left;&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;div class=&amp;quot;mermaid&amp;quot; style=&amp;quot;width: 700px; height: 500px;&amp;quot;&amp;gt;&lt;br /&gt;
+pie title 浏览器使用痛点分布&lt;br /&gt;
+&amp;quot;重复加载操作&amp;quot; : 45&lt;br /&gt;
+&amp;quot;内存溢出问题&amp;quot; : 30&lt;br /&gt;
+&amp;quot;场景切换困难&amp;quot; : 25&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;二-技术解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-技术解决方案&#34;&gt;#&lt;/a&gt; 二、技术解决方案&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract] 工作区架构&lt;br /&gt;
+Edge工作区采用分层设计：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;lt;div class=&amp;quot;mermaid&amp;quot;&amp;gt;&lt;br /&gt;
+graph LR&lt;br /&gt;
+A[用户界面] --&amp;gt; B[快照引擎]&lt;br /&gt;
+B --&amp;gt; C[增量同步]&lt;br /&gt;
+C --&amp;gt; D[跨设备恢复]&lt;br /&gt;
+D --&amp;gt; E[权限管理]&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!tip] 配置建议&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;命名规则&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;项目_功能_版本（例：CRM_UI_2.1）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;颜色编码&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;红：紧急；蓝：常规；绿：完成&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;同步策略&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;关键工作区实时同步，辅助工作区按需同步&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;三-维护建议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-维护建议&#34;&gt;#&lt;/a&gt; 三、维护建议&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!warning] 注意事项&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;定期清理6个月未使用的工作区&lt;/li&gt;
+&lt;li&gt;避免单个工作区超过15个标签页&lt;/li&gt;
+&lt;li&gt;敏感项目工作区启用二次验证&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;四-秒开工作区&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#四-秒开工作区&#34;&gt;#&lt;/a&gt; 四、秒开工作区&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Edge的工作区正常打开要先打开普通的标签页，再点击右上角的图标&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://log.xiaohans.xyz/usr/uploads/Pasted&#34;&gt;https://log.xiaohans.xyz/usr/uploads/Pasted&lt;/a&gt; image 20250725203320.png&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!important] 重要章节&lt;br /&gt;
+我们现在要解决的问题是如何在桌面秒开Edge工作区.&lt;br /&gt;
+先在资源管理器中找到这个文件&lt;code&gt;C:\Users\&amp;lt;你的用户名&amp;gt;\AppData\Local\Microsoft\Edge\User Data\Default\Workspaces&lt;/code&gt;&lt;br /&gt;
+然后用文本编辑器打开&lt;code&gt;WorkspaceCache&lt;/code&gt;,打开之后可以看到里面的工作区的信息及其参数，然后找到你想秒开的工作区的信息，然后记录一下它的&lt;code&gt;id&lt;/code&gt;,后续会用到&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!important]&lt;br /&gt;
+在桌面复制一个Edge浏览器的快捷方式，把它更名为workspace(不是必须的)，右键快捷方式，找到&lt;code&gt;属性&lt;/code&gt;，在&lt;code&gt;目标&lt;/code&gt;里面将原来的&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;quot;C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;后面加上 &lt;code&gt;--launch-workspace&lt;/code&gt;&lt;br /&gt;
+类似这个&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;quot;C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe&amp;quot; --launch-workspace=你的id&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;最后将刚才记录的id替换掉，然后就大功告成了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!note]&lt;br /&gt;
+之后如果你的桌面装了NeXus,可以在图标栏里插入新的Dock项目，&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://log.xiaohans.xyz/usr/uploads/Pasted&#34;&gt;https://log.xiaohans.xyz/usr/uploads/Pasted&lt;/a&gt; image 20250725204656.png&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;在查找项目里找到刚才新建的快捷方式，然后就完成了&lt;br /&gt;
+当然把你也可以添加快捷键，这样就可以在键盘上一键开启工作区了&lt;br /&gt;
+另外你可去阿里巴巴的矢量图库下几个图片，换上新图标玩玩&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!important]&lt;br /&gt;
+文章作者：潇寒paper龙&lt;br /&gt;
+版权声明：&lt;br /&gt;
+本文采用知识共享署名-非商业性使用-禁止演绎 4.0&lt;br /&gt;
+国际许可协议（&amp;lt;a href=&amp;quot;&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&#34;&gt;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&lt;/a&gt;&amp;quot;&amp;gt; CC BY-NC-ND 4.0 &amp;lt;/a&amp;gt;）&lt;br /&gt;
+转载请注明来自 &amp;lt;a href=&amp;quot;&lt;a href=&#34;https://xiaohans.xyz&#34;&gt;https://xiaohans.xyz&lt;/a&gt;&amp;quot;&amp;gt;潇寒的雪屋&amp;lt;/a&amp;gt; 或&amp;lt;a href=&amp;quot;&lt;a href=&#34;https://log.xiaohans.xyz&#34;&gt;https://log.xiaohans.xyz&lt;/a&gt;&amp;quot;&amp;gt;潇寒的日志&amp;lt;/a&amp;gt;&lt;br /&gt;
+作者邮箱：&lt;code&gt;xiaohans@xiaohans.xyz&lt;/code&gt;&lt;br /&gt;
+2025.07.25&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

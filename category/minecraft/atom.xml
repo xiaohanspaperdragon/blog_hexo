@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiaohanspaperdragon.github.io</id>
+    <title>潇寒的日志 • Posts by &#34;minecraft&#34; category</title>
+    <link href="https://xiaohanspaperdragon.github.io" />
+    <updated>2026-04-22T16:00:00.000Z</updated>
+    <category term="Edge" />
+    <category term="浏览器" />
+    <category term="工具" />
+    <category term="散文" />
+    <category term="月" />
+    <category term="帝禹" />
+    <category term="文学" />
+    <category term="文学文化" />
+    <category term="国学" />
+    <category term="中庸" />
+    <category term="四书五经" />
+    <category term="四书" />
+    <category term="我的世界" />
+    <category term="MC" />
+    <category term="Minecraft" />
+    <category term="屈原" />
+    <category term="楚文化" />
+    <category term="中西文化比较" />
+    <category term="计算机" />
+    <category term="建站" />
+    <category term="服务器" />
+    <category term="域名" />
+    <category term="电气" />
+    <category term="电气工程" />
+    <category term="前端" />
+    <category term="旧事重提" />
+    <category term="开发工具" />
+    <category term="markdown" />
+    <category term="笔记" />
+    <entry>
+        <id>https://xiaohanspaperdragon.github.io/2026/04/23/kua-ban-ben-yin-xiang/</id>
+        <title>跨版本印象</title>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2026/04/23/kua-ban-ben-yin-xiang/"/>
+        <content type="html">&lt;p&gt;话接上文《首跨版本之变》，这一篇就简单说说我对 Minecraft 继水域更新之后，各个跨版本更新的印象。&lt;/p&gt;
+&lt;p&gt;很多具体机制在 wiki 上都能查到，&lt;a href=&#34;https://zh.minecraft.wiki/w/%E6%B0%B4%E5%9F%9F%E6%9B%B4%E6%96%B0&#34;&gt;中文 Minecraft wiki&lt;/a&gt; 里写得很详细，太过细碎和专业的东西我就不多赘述了。&lt;/p&gt;
+&lt;h2 id=&#34;水域更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#水域更新&#34;&gt;#&lt;/a&gt; 水域更新&lt;/h2&gt;
+&lt;p&gt;首先就是开篇的水域更新，差不多在 2018 年。Update Aquatic 是一次主要更新，主题正是改造海洋。&lt;/p&gt;
+&lt;p&gt;最先要说的就是新加入的生物群系：暖水、温水、冷水和冰冻的海洋，以及对应的深海变种。新群系带来了一大批新结构——沉船、宝箱，还有绚丽的珊瑚礁。生物也丰富了不少，原先只能靠钓鱼竿钓上来的鱼，终于在水里有了实体形态，尤其是热带鱼，据说变种多达成千上万。不过相应地，海洋也不再像过去那样安全了——怪物开始在水下刷新了，有贴身缠斗的溺尸，还有拿着新武器三叉戟的远程溺尸。&lt;/p&gt;
+&lt;p&gt;总体来看，水域更新非常出彩，原本死气沉沉的海洋一下子充满了生机。&lt;/p&gt;
+&lt;h2 id=&#34;纹理更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#纹理更新&#34;&gt;#&lt;/a&gt; 纹理更新&lt;/h2&gt;
+&lt;p&gt;我原以为第二个跨版本应该是村庄更新或者下界更新，查了 wiki 才知道原来是纹理更新。说来也是，我对那次贴图大翻新还有印象，只是具体从什么时候开始却记不太清了。不过改动的方向很清楚：原来那些尖锐生硬的贴图变得柔和了不少。尤其在地狱，老版地狱岩的贴图看着挺吓人，新贴图就舒服多了。&lt;/p&gt;
+&lt;p&gt;总之，作为一次跨版本更新，虽然在我这存在感一般，但对游戏美术的推进来说，还是相当重要的一步。&lt;/p&gt;
+&lt;h2 id=&#34;村庄与掠夺&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#村庄与掠夺&#34;&gt;#&lt;/a&gt; 村庄与掠夺&lt;/h2&gt;
+&lt;p&gt;这个更新就比较有意思了。旧版村庄相当单调，村民们从远处看纹理几乎一个样。更新之后，不仅职业装束精致了许多，不同群系的村庄还各自有了独特的装饰风格。而且，还加入了一个全新事件——我把它叫作“村庄保卫战”，要保卫村子抵御灾厄村民的进攻，玩起来有那么一点塔防的味道，体验相当不错。&lt;/p&gt;
+&lt;p&gt;官方是这么说的：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;长久以来，村庄都是祥和、宁静的居所，只有僵尸涉足的时候会被打破，除此以外别无他例。从来就没有任何敌对分子想要改变现状——甚至都没人对它们的生活方式眼红。随着村庄和村民们焕然一新，我们感觉也是时候给它们新的挑战了，也平衡一下它们即将享受的奢靡生活。&lt;/p&gt;
+&lt;p&gt;——Cory Scheviak&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;嗡嗡蜂群&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#嗡嗡蜂群&#34;&gt;#&lt;/a&gt; 嗡嗡蜂群&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Minecraft 正在嗡嗡嗡！蜂群所到之处皆焕发新生，蜂群嗡嗡嗡，庄稼长长长，蜂箱舒适，蜂蜜黏黏！&lt;/p&gt;
+&lt;p&gt;——&lt;a href=&#34;http://Minecraft.net&#34;&gt;Minecraft.net&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;蜜蜂更新，非常可爱的一次更新。能当养蜂人，还能喝上蜂蜜，体量虽小，趣味却不少，尽管没有什么颠覆性的用处。可以给三颗星。&lt;/p&gt;
+&lt;h2 id=&#34;下界更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下界更新&#34;&gt;#&lt;/a&gt; 下界更新&lt;/h2&gt;
+&lt;p&gt;2020 年疫情期间的重磅炸弹，当之无愧的版本之神。虽然我 Java 版玩得不多，但我也听说这是继 1.7.10 之后，Java 社区中模组最多的又一个版本。&lt;/p&gt;
+&lt;p&gt;下界再也不只有一眼望不到头的地狱岩、岩浆，以及孤零零的下界要塞了，一下子塞进了大量新内容。&lt;/p&gt;
+&lt;p&gt;光是生物群系就多了四个。灵魂沙峡谷，把蓝色火焰的幽闭氛围拉满，视觉和心理上的冲击感极强。绯红森林和诡异森林带来了全新木材，建家的材料库又扩充了。从这时起，一种新玩法也应运而生——从零开始的下界生存。俗话说“要致富，先撸树”，想在异世界白手起家的玩家，迎来了一次全新的挑战。&lt;/p&gt;
+&lt;p&gt;再就是堡垒遗迹，民间常叫猪灵堡垒，里面有新的矿物、新的生物、新的武器和装备，是迈向全面进化前的终极据点。全套下界合金套装，原版生存里的巅峰神器。&lt;/p&gt;
+&lt;p&gt;这次更新补齐了异世界这块巨大拼图，堪称神之一更。话说，末地更新什么时候来啊？真的很期待。&lt;/p&gt;
+&lt;h2 id=&#34;洞穴与山崖&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#洞穴与山崖&#34;&gt;#&lt;/a&gt; 洞穴与山崖&lt;/h2&gt;
+&lt;p&gt;印象不太深，紫水晶洞穴、繁茂洞穴，还有版本小可爱：美西螈。&lt;/p&gt;
+&lt;p&gt;剩下的实在想不起来了，存在感比较低。&lt;/p&gt;
+&lt;h2 id=&#34;荒野更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#荒野更新&#34;&gt;#&lt;/a&gt; 荒野更新&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;荒野更新（The Wild Update）是一次主要更新，发布于 2022 年 6 月 7 日。此次更新在 Minecraft Live 2021 期间宣布。其主要内容是加入深暗之域、红树林沼泽及其相关内容。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;官方介绍说这次加入了深暗之域、红树林沼泽什么的。红树林有点意思，木头颜色独特，根系乱七八糟的，建家又有新材料了；青蛙也终于来了，三种颜色对应不同温度群系，还能吃岩浆怪产蛙明灯——好玩，但是难获得啊，最值钱的朝明方块了。&lt;/p&gt;
+&lt;p&gt;重头戏还是深暗之域。怎么说呢，第一次下到古代城市遗迹的时候，那种压抑感真的很强烈。到处都是幽匿块和尖啸体，走路必须蹲着走，稍一不留神触发尖啸，监守者就猛地从地里钻出来，咚，咚，咚……那种沉重的脚步声和突然黑屏的视野压迫感，跟看恐怖片似的。关键这玩意儿还巨肉，几个人围殴都打不过，正儿八经的版本噩梦。qwq ，远古城市东西是好，但监守者我是真打不过啊&lt;/p&gt;
+&lt;h2 id=&#34;足迹与故事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#足迹与故事&#34;&gt;#&lt;/a&gt; 足迹与故事&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;足迹与故事（Trails &amp;amp; Tales）是一次主要更新，发布于 2023 年 6 月 7 日。此次更新在 Minecraft Live 2022 期间宣布，更新的名称于 2023 年 3 月 2 日公布。其主要内容是加入樱花树林、骆驼、嗅探兽和考古相关内容。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;？？？这是什么，怎么没听说过。樱花是这时候加的吗？更新了骆驼我倒是记得，但嗅探兽又是啥……哦，想起来了，是那个考古更新吧……着实鸡肋，不过当个收藏品建个博物馆还是有那么点用处的&lt;/p&gt;
+&lt;h2 id=&#34;棘巧试炼&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#棘巧试炼&#34;&gt;#&lt;/a&gt; 棘巧试炼&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;棘巧试炼（Tricky Trials）&lt;/strong&gt; 是一次主要更新，发布于 2024 年 6 月 13 日。此次更新在 Minecraft Live 2023 期间宣布，更新的名称于 2024 年 4 月 26 日公布。其主要内容是加入试炼密室结构，新生物 &lt;a href=&#34;https://zh.minecraft.wiki/w/%E6%97%8B%E9%A3%8E%E4%BA%BA&#34; title=&#34;旋风人&#34;&gt;旋风人&lt;/a&gt; 和 &lt;a href=&#34;https://zh.minecraft.wiki/w/%E6%B2%BC%E9%AA%B8&#34; title=&#34;沼骸&#34;&gt;沼骸&lt;/a&gt;，&lt;a href=&#34;https://zh.minecraft.wiki/w/%E4%B8%8D%E7%A5%A5%E4%BA%8B%E4%BB%B6&#34; title=&#34;不祥事件&#34;&gt;不祥事件&lt;/a&gt;，以及大量新方块与新物品。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这个更新是真的蛮有意思的，在试炼密室里刷怪打起来那叫一个爽，还有新武器重锤。给五颗星&lt;/p&gt;
+</content>
+        <category term="我的世界" />
+        <category term="MC" />
+        <category term="Minecraft" />
+        <updated>2026-04-22T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://xiaohanspaperdragon.github.io/2026/04/22/shou-kua-ban-ben-zhi-bian/</id>
+        <title>首跨版本之变</title>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2026/04/22/shou-kua-ban-ben-zhi-bian/"/>
+        <content type="html">&lt;p&gt;Minecraft&lt;strong&gt;水域更新&lt;/strong&gt;是第一次跨版本更新，在水域更新之后，我已经很久没有真正“肝”过一段纯生存了。若说原因，大概也只能用一句“时也，运也”来概括，细想下来，无非两三点。&lt;/p&gt;
+&lt;p&gt;其一，是2017年前后中国大陆正版环境的变化。Minecraft被网易代理上线后，曾经陪伴童年的平台——多玩我的世界盒子、我的世界联机盒子——相继关停，一众盗版渠道也随之消失。那些年积累的存档、皮肤、材质包与光影，一夜之间仿佛被时代清空。说到底，这也是版权规范化的必然结果。起初我对中国版抱有不小的期待，而时至今日，它对于一些没有条件接触国际版的学生来说，依然算是一个可行的入口，尽管优化等问题始终存在，但那已是后话。&lt;/p&gt;
+&lt;p&gt;其二，是人生阶段的更替——我升入了初中。家在三四线小城，教育氛围谈不上精致，却异常“用力”。无论家庭条件如何、成绩优劣，几乎所有人都被裹挟进补课的洪流。周末往往被切割成密不透风的时间块，上午、下午轮番上阵，游戏自然成了被牺牲的对象。不是不想玩，而是无暇再玩。&lt;/p&gt;
+&lt;p&gt;其三，则是前两者的叠加效应。平台的消失带走了线上伙伴，升学又冲散了线下同伴。曾经一起挖矿、建家、通宵联机的朋友，渐渐失去联系，甚至悄然断线。于是才发现，游戏最重要的“配置”从来不是显卡或模组，而是人。人散了，再宏大的世界也难以支撑长久的热情（或许纯粹的单机体验另当别论）。&lt;/p&gt;
+&lt;p&gt;后来真正再去“肝”纯生存，已经是2020年疫情期间的短暂回归。再往后，直到后疫情时代，我步入大学。虽说不再沉迷生存模式，但十年之间，每年总会抽出一段时间重新打开Minecraft，像是例行的仪式。只是每一次回望，都会隐约生出一种“物是人非”的感觉——哪怕那一切，只发生在一个由方块构成的虚拟世界里。其实变的不是世界，是一起玩的人。&lt;/p&gt;
+</content>
+        <updated>2026-04-21T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://xiaohanspaperdragon.github.io/2026/04/15/liu-huang-shi-lai-mu/</id>
+        <title>硫磺史莱姆</title>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2026/04/15/liu-huang-shi-lai-mu/"/>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;混沌立方（Chaos Cubed&lt;/strong&gt; 是即将到来的一次&lt;a href=&#34;https://zh.minecraft.wiki/w/%E5%B0%8F%E6%9B%B4%E6%96%B0&#34; title=&#34;小更新&#34;&gt;小更新&lt;/a&gt;，发布时间待定。更新以&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E9%BB%84%E6%B4%9E%E7%A9%B4&#34; title=&#34;硫黄洞穴&#34;&gt;硫黄洞穴&lt;/a&gt;生物群系为主，包含各种&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E9%BB%84&#34; title=&#34;硫黄&#34;&gt;硫黄&lt;/a&gt;方块和特性，以及全新的生物&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E6%96%B9%E6%80%AA&#34; title=&#34;硫方怪&#34;&gt;硫方怪&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mojang搞了个特别有意思的小更新，叫混沌立方，演示视频直接把史莱姆当球踢&lt;br /&gt;
+不过官方对这玩法的理解还是太少了，玩家开发出来的新玩法可是百花齐放。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;硫磺史莱姆，官方叫**硫方怪（Sulfur Cube）**是一种生成于&lt;a href=&#34;https://zh.minecraft.wiki/w/%E7%A1%AB%E9%BB%84%E6%B4%9E%E7%A9%B4&#34; title=&#34;硫黄洞穴&#34;&gt;硫黄洞穴&lt;/a&gt;生物群系的&lt;a href=&#34;https://zh.minecraft.wiki/w/%E5%8F%8B%E5%A5%BD%E7%94%9F%E7%89%A9&#34; title=&#34;友好生物&#34;&gt;友好生物&lt;/a&gt;，可以吸收方块以在受击后弹跳移动&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;硫磺史莱姆可以吸收非常多的方块，每一类方块都有不同的物理特性，吸收方块后变成一个方块实体且不会收到伤害，但是有击退效果&lt;/p&gt;
+&lt;p&gt;方块吸收属性详见wiki&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;新的群系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新的群系&#34;&gt;#&lt;/a&gt; 新的群系&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;硫黄洞穴&lt;/strong&gt;是混沌立方更新中最为引人注目的新生物群系。这一生物群系与地下世界其他生物群系不同，它具有强烈的工业与硫磺风格，洞穴中的环境呈现出一种异乎寻常的色调，充满了黄色和橙色的光泽。玩家在探索硫黄洞穴时，会遇到许多全新的环境元素，主要特点包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;硫磺气体&lt;/strong&gt;：这种气体会弥漫在洞穴的空气中，若玩家长时间暴露在其中，可能会受到轻微的中毒伤害。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;硫黄方块&lt;/strong&gt;：作为更新的核心方块之一，硫黄方块不仅外观独特，还有着特殊的物理特性。它们是硫黄洞穴的主要构成部分，玩家可以收集和利用这些方块制作新道具。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;地下生物群落&lt;/strong&gt;：除了硫方怪外，硫黄洞穴还生长着一些新的生物，它们与硫磺气体和火山岩等元素紧密相连，增添了新的挑战和探索乐趣。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;新生物硫方怪sulfur-cube&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新生物硫方怪sulfur-cube&#34;&gt;#&lt;/a&gt; &lt;strong&gt;新生物：硫方怪（Sulfur Cube）&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;硫方怪&lt;/strong&gt;，也叫硫黄史莱姆，是混沌立方更新中的一大亮点。它是一种全新的友好生物，生活在硫黄洞穴这一新生物群系中。与传统的史莱姆不同，硫方怪有一些独特的能力和互动机制：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;吸收方块&lt;/strong&gt;：硫方怪的最大特点是它能吸收周围的方块。这些方块会被其吸收并转化为方块实体，赋予硫方怪新的物理特性。每种方块的吸收效果都不同，这使得硫方怪能够根据所吸收的方块，产生不同的效果。例如，吸收石砖时，硫方怪可能变得更加坚固，吸收沙土时则可能引发快速崩塌。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;弹跳与击退&lt;/strong&gt;：硫方怪吸收方块后，能够获得类似弹跳的能力，当其受到攻击时，它会产生强烈的击退效果，将周围的玩家或敌人推开。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;友好生物&lt;/strong&gt;：硫方怪的行为非常友好，玩家可以与其互动，甚至在它们吸收方块时获得一些资源或帮助。然而，它们也可以成为强力的防御工具，保护玩家免受敌人的攻击。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <updated>2026-04-14T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://xiaohanspaperdragon.github.io/2025/11/21/wo-de-MC-shi-nian/</id>
+        <title>我的MC十年：2015.11-2025.11.1</title>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2025/11/21/wo-de-MC-shi-nian/"/>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;方块树上方块果，方块树下你和我。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先，先来说一下我对Minecraft这款游戏的初印象，当时大名鼎鼎的沙盒三神之一（那时还没有星露谷），像素风3D游戏，开放世界探索，拥有无限的创造可能，建筑、红石电路、生电、指令等等，当然生存模式的乐趣也是超高的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第一次接触MC是2015、16年那一会，当时小学三四年级，身边的同学们下课都在谈论一款很自由的开放世界游戏，当时的年代家里电脑是XP系统，所以除了页游只能玩玩手机游戏，由于其无限地图的性质，我大有兴趣，就在我母亲的三星手机应用商店上下载来玩，当时几乎应用商店上一搜都是盗版。开了个生存地图不知道怎么玩就瞎逛，动不动总是被打死，索性就开和平，在设置里到处翻翻看学会了开创造就一直飞飞飞，自己拿方块瞎摆东西，用钻石块金块做几个超大火柴盒，很满足尚且年幼的创造欲和好奇心。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;实况视频知识的源泉&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实况视频知识的源泉&#34;&gt;#&lt;/a&gt; 实况视频：知识的源泉&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;为了更好地体验生存模式以及在学校与小伙伴们讨论这款游戏时装懂哥，于是我疯狂在各大视频网站上刷实况视频，很多实况主的视频都承载了当时的回忆。印象最深的就是方块学园领域服的那些人，炎黄、籽岷、蜀黎、明月庄主（红石大佬！当时那红石机器给我看的一愣一愣的）、粉鱼、大橙子、五之歌。炎黄和明月庄主在服务器上组团生存的第一集隐居荒山我至今仍印象深刻。另外还有血舞crazy美丽新世界整合包实况，阿雷硬汉解说我的世界虚无世界2，小白解说我的世界时代进化，小明解说我的世界生活大冒险小本，天琪，悠然小天，木鱼，大海解说（开场白至今仍记：一二三四五，大海一米五）。还有诸多实况主，只可惜十年已过，早已记忆模糊…&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当时看的实况视频大多玩的是java版，有整合包，有模组，还有光影、材质。极大地丰富了游戏的玩法，说实话原版生存就已经够丰富了。不过当时在手机上玩基岩版，还是较早期的版本，记得是0.15、1.0和1.1的版本。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;多玩盒子童年的乐园&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#多玩盒子童年的乐园&#34;&gt;#&lt;/a&gt; 多玩盒子：童年的乐园&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;玩手机版的我也想体验一下那些模组材质，正巧的是，在朋友的推荐下，我知道了多玩我的世界盒子还有我的世界联机盒子。里面有很有国人自己制作还有国外搬运的资源，虽然质量不及java社会生态但是已经很满足了。单机模式就体验各种模组，还有安装光影材质什么的，很感叹当时加了光影的画质（虽然是低配的）。在联机盒子上还可以和小伙伴们联机一起玩，那几年真的是妥妥的童年回忆啊。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;技术与成长&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#技术与成长&#34;&gt;#&lt;/a&gt; 技术与成长&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当时，正是因为玩MC，在网上查找各种资料就无意间接触到了很多手机和电脑的知识，让我产生了对计算机科学的兴趣，不过那些都是后话了。不过最影响我的是，我当时好奇心重，想知道那些模组和材质是怎么做的，就想自己能不能也做一个啥的。于是我上网查资料知道了编程的概念，知道了游戏开发，知道了建模。我就开始拆包自己下载的材质包，因为我觉得材质比较简单，然后就替换自己的贴图，魔改各种材质包。手机上也会下皮肤制作器自己画皮肤，另外还自己做一些建筑，下载blockbench自己研究简单的低多边形建模。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自己有了些许技术后（也许根本称不上什么技术），就和小学同学组建了自己的民间工作室，瞎制作一些现在看来质量比较低的作品。后来上中学，又加入了新龙工作室。再之后又迷上一点前端、blog和建站，不过那都是后话了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;转折与沉寂&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#转折与沉寂&#34;&gt;#&lt;/a&gt; 转折与沉寂&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可惜好景不长，没过几年，某易就拿到了MC在中国的代理，然后多玩就没了。随之而没的是这个平台承载的我的童年欢乐。&lt;/p&gt;
+&lt;p&gt;我对MC的记忆基本上停留在多彩更新和水域更新，某易代理后正巧又赶上读中学，玩游戏的时间就少了，也就没有大把的精力来玩MC，新版本的一些东西让我对MC有了些许陌生。不过时间虽少，但是一年总有那么几天特别想玩MC，总归是没有断了&amp;quot;传承&amp;quot;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;归来与情怀&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#归来与情怀&#34;&gt;#&lt;/a&gt; 归来与情怀&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;之后就上了大学，有了电脑并且手机自由。接触了更多优质游戏，不过终究是没有什么游戏可以撼动MC在我心中的地位。25年九月份，一起和室友联机玩了几百个小时加光影的原版生存，建了基地，发展到满配的下界合金套，六年来第一次又肝了这么久的MC，虽然没有当年的感觉，但终究是心中挥之不去的情怀。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《Minecraft》于我而言，不仅是一款游戏，更是一把改变了我人生轨迹的钥匙。它以像素方块构筑的虚拟天地，承载着我童年最纯粹的快乐与探索欲，见证着我从懵懂孩童到对技术充满好奇的青少年的蜕变。在这个由方块搭建的宇宙里，我学会了创造、学会了协作，更学会了以开放的视野去拥抱未知。即便岁月流转，现实的浪潮将我带向更广阔的天地，那份对自由创造的热爱却始终如一。2025年的再次沉浸，让我明白，无论时代如何变迁，《Minecraft》早已成为我心灵深处永恒的归宿，只要心中那份热爱不息，这个方块世界就永远向我敞开怀抱，等待着我去续写新的篇章。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <updated>2025-11-20T16:00:00.000Z</updated>
+    </entry>
+</feed>

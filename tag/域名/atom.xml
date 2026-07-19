@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiaohanspaperdragon.github.io</id>
+    <title>潇寒的日志 • Posts by &#34;域名&#34; tag</title>
+    <link href="https://xiaohanspaperdragon.github.io" />
+    <updated>2025-02-11T16:00:00.000Z</updated>
+    <category term="Edge" />
+    <category term="浏览器" />
+    <category term="工具" />
+    <category term="散文" />
+    <category term="月" />
+    <category term="帝禹" />
+    <category term="文学" />
+    <category term="文学文化" />
+    <category term="国学" />
+    <category term="中庸" />
+    <category term="四书五经" />
+    <category term="四书" />
+    <category term="我的世界" />
+    <category term="MC" />
+    <category term="Minecraft" />
+    <category term="屈原" />
+    <category term="楚文化" />
+    <category term="中西文化比较" />
+    <category term="计算机" />
+    <category term="建站" />
+    <category term="服务器" />
+    <category term="域名" />
+    <category term="电气" />
+    <category term="电气工程" />
+    <category term="前端" />
+    <category term="旧事重提" />
+    <category term="开发工具" />
+    <category term="markdown" />
+    <category term="笔记" />
+    <entry>
+        <id>https://xiaohanspaperdragon.github.io/2025/02/12/xin-shou-jian-zhan-zhi-nan/</id>
+        <title>新手建站指南</title>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2025/02/12/xin-shou-jian-zhan-zhi-nan/"/>
+        <content type="html">&lt;h1 id=&#34;服务器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#服务器&#34;&gt;#&lt;/a&gt; 服务器&lt;/h1&gt;
+&lt;h3 id=&#34;介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍&#34;&gt;#&lt;/a&gt; 介绍&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用于存放网站的内容，向用户展示，具有独立的ip地址，用户可以通过ip或域名进行访问&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;选择配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择配置&#34;&gt;#&lt;/a&gt; 选择配置&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;根据项目需求选择合适的服务器配置。对于中小型项目，建议选择 2 核 4GB 内存的服务器；对于大型项目，建议选择 4 核 8GB 或更高配置&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;文章作者：潇寒paper龙&lt;br /&gt;
+版权声明：&lt;br /&gt;
+本文采用知识共享署名-非商业性使用-禁止演绎 4.0&lt;br /&gt;
+国际许可协议（&amp;lt;a href=&amp;quot;&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&#34;&gt;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&lt;/a&gt;&amp;quot;&amp;gt; CC BY-NC-ND 4.0 &amp;lt;/a&amp;gt;）&lt;br /&gt;
+转载请注明来自 &amp;lt;a href=&amp;quot;&lt;a href=&#34;https://xiaohans.xyz&#34;&gt;https://xiaohans.xyz&lt;/a&gt;&amp;quot;&amp;gt;潇寒的雪屋&amp;lt;/a&amp;gt; 或&amp;lt;a href=&amp;quot;&lt;a href=&#34;https://log.xiaohans.xyz&#34;&gt;https://log.xiaohans.xyz&lt;/a&gt;&amp;quot;&amp;gt;潇寒的日志&amp;lt;/a&amp;gt;&lt;br /&gt;
+作者邮箱：&lt;code&gt;xiaohans@xiaohans.xyz&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;购买实例&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#购买实例&#34;&gt;#&lt;/a&gt; 购买实例&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;阿里云，腾讯云，华为云，百度智能云等各大平台，都可以买到安全实惠的VPS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;推荐使用 CentOS 7 或 8，系统稳定且兼容性好&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;域名&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#域名&#34;&gt;#&lt;/a&gt; 域名&lt;/h1&gt;
+&lt;h3 id=&#34;介绍-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#介绍-2&#34;&gt;#&lt;/a&gt; 介绍&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;由于 &lt;a href=&#34;https://baike.baidu.com/item/IP%E5%9C%B0%E5%9D%80/150859?fromModule=lemma_inlink&#34;&gt;IP 地址&lt;/a&gt;具有不方便记忆并且不能显示地址组织的名称和性质等缺点，人们设计出了域名，并通过网域名称系统（&lt;a href=&#34;https://baike.baidu.com/item/DNS?fromModule=lemma_inlink&#34;&gt;DNS&lt;/a&gt;，Domain Name System）来将域名和 &lt;a href=&#34;https://baike.baidu.com/item/IP%E5%9C%B0%E5%9D%80?fromModule=lemma_inlink&#34;&gt;IP 地址&lt;/a&gt;相互&lt;a href=&#34;https://baike.baidu.com/item/%E6%98%A0%E5%B0%84/20402621?fromModule=lemma_inlink&#34;&gt;映射&lt;/a&gt;，使人更方便地访问&lt;a href=&#34;https://baike.baidu.com/item/%E4%BA%92%E8%81%94%E7%BD%91/199186?fromModule=lemma_inlink&#34;&gt;互联网&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;购买&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#购买&#34;&gt;#&lt;/a&gt; 购买&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;阿里云，腾讯云，华为云，百度智能云等各大平台&lt;br /&gt;
+国内域名购买需要实名认证&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;dns&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dns&#34;&gt;#&lt;/a&gt; DNS&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;购买后需要在域名商的解析设置里添加记录&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;常见类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#常见类型&#34;&gt;#&lt;/a&gt; 常见类型&lt;/h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A:将域名指向一个IPV4地址&lt;br /&gt;
+CNAME：将域名指向另一个域名&lt;br /&gt;
+AAAA：将域名指向一个IPV6地址&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;备案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#备案&#34;&gt;#&lt;/a&gt; 备案&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;网站备案是指在中国大陆运营的网站向国家相关主管部门（如工业和信息化部）提交网站信息和域名信息进行登记备案的过程。根据《中华人民共和国互联网信息服务管理办法》和《中华人民共和国电信条例》，所有提供互联网信息服务的网站都必须进行备案，以保证网站的合法性、安全性和可追溯性&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;icp备案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#icp备案&#34;&gt;#&lt;/a&gt; ICP备案&lt;/h2&gt;
+&lt;h2 id=&#34;公安备案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#公安备案&#34;&gt;#&lt;/a&gt; 公安备案&lt;/h2&gt;
+&lt;h1 id=&#34;远程连接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#远程连接&#34;&gt;#&lt;/a&gt; 远程连接&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;购买好服务器就可以远程进行管理和配置了&lt;br /&gt;
+可以使用云服务器提供商自带的一些连接平台和工具&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;ssh&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ssh&#34;&gt;#&lt;/a&gt; SSH&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;允许用户从本地计算机安全地登录到远程服务器上，执行命令和管理远程系统&lt;br /&gt;
+笔者常用的是FinalShell&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;ftp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ftp&#34;&gt;#&lt;/a&gt; FTP&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;安全地传输文件&lt;br /&gt;
+笔者常用的是Filezilla&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;网站安全&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站安全&#34;&gt;#&lt;/a&gt; 网站安全&lt;/h1&gt;
+&lt;h3 id=&#34;https&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#https&#34;&gt;#&lt;/a&gt; HTTPS&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;启用 HTTPS 协议可以为数据传输提供加密保护，防止数据在传输过程中被窃取或篡改。许多浏览器会标记未使用 HTTPS 的网站为“不安全”，这可能导致用户流失&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;ssl证书&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ssl证书&#34;&gt;#&lt;/a&gt; SSL证书&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;建议为网站配置有效的 SSL 证书，并强制所有请求使用 HTTPS 连接&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;waf和ids&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#waf和ids&#34;&gt;#&lt;/a&gt; WAF和IDS&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Web 应用防火墙（WAF）可以有效过滤恶意请求，阻止 SQL 注入、跨站脚本等常见攻击。入侵检测系统（IDS）可以监测到异常流量和潜在攻击，及时发出警报，帮助管理员做出反应&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;dnssec&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dnssec&#34;&gt;#&lt;/a&gt; DNSSEC&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;域名系统安全扩展（DNS Security Extensions），简称DNSSEC。开启DNSSEC，可有效防止DNS欺骗和缓存污染等攻击。它是通过数字签名来保证DNS应答报文的真实性和完整性，能够保护用户不被重定向到非预期地址，从而提高用户对互联网的信任，并保护您的核心业务。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;安全组&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安全组&#34;&gt;#&lt;/a&gt; 安全组&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;合理地配置安全组，禁止非必要的端口&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;配置环境&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置环境&#34;&gt;#&lt;/a&gt; 配置环境&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以php环境为例&lt;br /&gt;
+可以安装宝塔面板来进行配置，也可以自己手动配置&lt;br /&gt;
+宝塔面板安装脚本&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_panel.sh;else wget -O install_panel.sh https://download.bt.cn/install/install_panel.sh;fi;bash install_panel.sh ed8484bec&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;宝塔里可以一键安装nginx,  mysql,  pureftpd,  php,  phpmyadmin,  mysql&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;安装web服务器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装web服务器&#34;&gt;#&lt;/a&gt; 安装web服务器&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;根据个人喜好选择安装 Nginx 或 Apache 作为 Web 服务器：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;安装Nginx&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; yum&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; install&lt;/span&gt;&lt;span style=&#34;color:#A65E2B;--shiki-dark:#C99076&#34;&gt; -y&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; nginx&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; systemctl&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; start&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; nginx&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; systemctl&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; enable&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; nginx&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;安装Apache&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; yum&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; install&lt;/span&gt;&lt;span style=&#34;color:#A65E2B;--shiki-dark:#C99076&#34;&gt; -y&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; httpd&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; systemctl&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; start&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; httpd&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; systemctl&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; enable&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; httpd&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;安装php及其扩展&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装php及其扩展&#34;&gt;#&lt;/a&gt; 安装php及其扩展&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;安装php&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; yum&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; install&lt;/span&gt;&lt;span style=&#34;color:#A65E2B;--shiki-dark:#C99076&#34;&gt; -y&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; php&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; php-fpm&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;安装扩展&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; yum&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; install&lt;/span&gt;&lt;span style=&#34;color:#A65E2B;--shiki-dark:#C99076&#34;&gt; -y&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; php-mysql&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; php-gd&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; php-xml&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; php-imap&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; php-ldap&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; php-odbc&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; php-pear&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;配置php:编辑 PHP 配置文件 &lt;code&gt;/etc/php.ini&lt;/code&gt;，根据需要设置相关参数，例如：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;date.timezone&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; =&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; Asia/Shanghai&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;max_execution_time&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; =&lt;/span&gt;&lt;span style=&#34;color:#2F798A;--shiki-dark:#4C9A91&#34;&gt; 300&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;memory_limit&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; =&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; 512M&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;配置web服务器与php&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置web服务器与php&#34;&gt;#&lt;/a&gt; 配置web服务器与php&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;配置nginx或apache，重启生效，具体做法请读者自行查找&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;安装数据库如mysql&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装数据库如mysql&#34;&gt;#&lt;/a&gt; 安装数据库（如MySQL)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;安装MySQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; yum&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; install&lt;/span&gt;&lt;span style=&#34;color:#A65E2B;--shiki-dark:#C99076&#34;&gt; -y&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; mysql&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; mysql-server&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; systemctl&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; start&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; mysqld&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; systemctl&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; enable&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; mysqld&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;设置MySQL root 密码并创建数据库&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;sudo&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; mysql_secure_installation&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;按照提示设置 root 密码，然后登录 MySQL：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;mysql&lt;/span&gt;&lt;span style=&#34;color:#A65E2B;--shiki-dark:#C99076&#34;&gt; -u&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt; root&lt;/span&gt;&lt;span style=&#34;color:#A65E2B;--shiki-dark:#C99076&#34;&gt; -p&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;创建数据库和用户名&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-sql&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#1E754F;--shiki-dark:#4D9375&#34;&gt;CREATE&lt;/span&gt;&lt;span style=&#34;color:#1E754F;--shiki-dark:#4D9375&#34;&gt; DATABASE&lt;/span&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt; mydatabase&lt;/span&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#1E754F;--shiki-dark:#4D9375&#34;&gt;CREATE&lt;/span&gt;&lt;span style=&#34;color:#1E754F;--shiki-dark:#4D9375&#34;&gt; USER&lt;/span&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt; &#39;&lt;/span&gt;&lt;span style=&#34;color:#59873A;--shiki-dark:#80A665&#34;&gt;myuser&lt;/span&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt;&#39;@&lt;/span&gt;&lt;span style=&#34;color:#B5695977;--shiki-dark:#C98A7D77&#34;&gt;&#39;&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt;localhost&lt;/span&gt;&lt;span style=&#34;color:#B5695977;--shiki-dark:#C98A7D77&#34;&gt;&#39;&lt;/span&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt; IDENTIFIED &lt;/span&gt;&lt;span style=&#34;color:#1E754F;--shiki-dark:#4D9375&#34;&gt;BY&lt;/span&gt;&lt;span style=&#34;color:#B5695977;--shiki-dark:#C98A7D77&#34;&gt; &#39;&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt;mypassword&lt;/span&gt;&lt;span style=&#34;color:#B5695977;--shiki-dark:#C98A7D77&#34;&gt;&#39;&lt;/span&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#1E754F;--shiki-dark:#4D9375&#34;&gt;GRANT&lt;/span&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt; ALL PRIVILEGES &lt;/span&gt;&lt;span style=&#34;color:#1E754F;--shiki-dark:#4D9375&#34;&gt;ON&lt;/span&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt; mydatabase.&lt;/span&gt;&lt;span style=&#34;color:#AB5959;--shiki-dark:#CB7676&#34;&gt;*&lt;/span&gt;&lt;span style=&#34;color:#1E754F;--shiki-dark:#4D9375&#34;&gt; TO&lt;/span&gt;&lt;span style=&#34;color:#B5695977;--shiki-dark:#C98A7D77&#34;&gt; &#39;&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt;myuser&lt;/span&gt;&lt;span style=&#34;color:#B5695977;--shiki-dark:#C98A7D77&#34;&gt;&#39;&lt;/span&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt;@&lt;/span&gt;&lt;span style=&#34;color:#B5695977;--shiki-dark:#C98A7D77&#34;&gt;&#39;&lt;/span&gt;&lt;span style=&#34;color:#B56959;--shiki-dark:#C98A7D&#34;&gt;localhost&lt;/span&gt;&lt;span style=&#34;color:#B5695977;--shiki-dark:#C98A7D77&#34;&gt;&#39;&lt;/span&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt;FLUSH PRIVILEGES;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#393A34;--shiki-dark:#DBD7CAEE&#34;&gt;EXIT;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;准备cms&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#准备cms&#34;&gt;#&lt;/a&gt; 准备CMS&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CMS（内容管理系统，Content Management System）是一种用于创建、管理、发布和维护网站内容的软件系统。它允许用户通过直观的界面轻松管理网站内容，无需具备专业的编程或技术背景&lt;/p&gt;
+&lt;p&gt;市面上有很多开源免费的框架，低代码且易于管理和维护基于php的有woedpress和typecho，笔者都用过，体验很不错&lt;/p&gt;
+&lt;p&gt;[WordPress](&lt;a href=&#34;https://cn.wordpress.org/&#34;&gt;博客工具、发布平台和内容管理系统 – WordPress.org China 简体中文&lt;/a&gt;) 和 [Typecho](&lt;a href=&#34;https://typecho.org/&#34;&gt;Typecho Official Site&lt;/a&gt;) 都是流行的开源内容管理系统（CMS），用于创建和管理网站，尤其是博客，但它们在功能、设计和用户群体等方面有一些不同&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;上传网站文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#上传网站文件&#34;&gt;#&lt;/a&gt; 上传网站文件&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用 FTP、SFTP 等工具将网站文件上传到服务器对应的目录中，如 Nginx 的 &lt;code&gt;/usr/share/nginx/html&lt;/code&gt; 目录或 Apache 的 &lt;code&gt;/var/www/html&lt;/code&gt; 目录&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;配置网站后台&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置网站后台&#34;&gt;#&lt;/a&gt; 配置网站后台&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;上传CMS的源码后，从域名访问，进入安装界面&lt;br /&gt;
+设置管理员的用户名和密码，绑定邮箱&lt;br /&gt;
+连接数据库，输入数据库名称，用户名和密码及表前缀&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;网站装修&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网站装修&#34;&gt;#&lt;/a&gt; 网站装修&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通过网站后台可以安装主题和插件，美化博客，也可以自行更改主题文件，这会涉及css的知识&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;优化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#优化&#34;&gt;#&lt;/a&gt; 优化&lt;/h2&gt;
+&lt;h3 id=&#34;cdn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cdn&#34;&gt;#&lt;/a&gt; CDN&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CDN（Content Delivery Network）即内容分发网络，是一种分布式网络服务，旨在通过全球范围内的服务器节点，将网站或应用程序的内容高效地分发给用户。它通过将内容缓存到离用户最近的边缘节点上，减少数据传输的距离和时间，从而提高内容加载速度，同时减轻源站服务器的负担&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;图床&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图床&#34;&gt;#&lt;/a&gt; 图床&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可以使用对象云存储OSS来搭建图床，减少服务器的压力&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;缓存&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#缓存&#34;&gt;#&lt;/a&gt; 缓存&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;服务器也是一台计算机，理论上内存的读取速度比硬盘快，那么缓存到内存可能比缓存到硬盘快&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;seo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#seo&#34;&gt;#&lt;/a&gt; SEO&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;SEO（Search Engine Optimization，搜索引擎优化）是一种通过优化网站内容和结构，提高网站在搜索引擎自然搜索结果中的排名，从而增加网站流量和可见性的过程。SEO 的目标是让网站在用户搜索相关关键词时，能够出现在搜索结果的前列，吸引更多潜在用户访问网站&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="计算机" />
+        <category term="建站" />
+        <category term="服务器" />
+        <category term="域名" />
+        <updated>2025-02-11T16:00:00.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiaohanspaperdragon.github.io</id>
+    <title>潇寒的日志 • Posts by &#34;开发工具&#34; category</title>
+    <link href="https://xiaohanspaperdragon.github.io" />
+    <updated>2025-07-24T16:00:00.000Z</updated>
+    <category term="Edge" />
+    <category term="浏览器" />
+    <category term="工具" />
+    <category term="散文" />
+    <category term="月" />
+    <category term="帝禹" />
+    <category term="文学" />
+    <category term="文学文化" />
+    <category term="国学" />
+    <category term="中庸" />
+    <category term="四书五经" />
+    <category term="四书" />
+    <category term="我的世界" />
+    <category term="MC" />
+    <category term="Minecraft" />
+    <category term="屈原" />
+    <category term="楚文化" />
+    <category term="中西文化比较" />
+    <category term="计算机" />
+    <category term="建站" />
+    <category term="服务器" />
+    <category term="域名" />
+    <category term="电气" />
+    <category term="电气工程" />
+    <category term="前端" />
+    <category term="旧事重提" />
+    <category term="开发工具" />
+    <category term="markdown" />
+    <category term="笔记" />
+    <entry>
+        <id>https://xiaohanspaperdragon.github.io/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</id>
+        <title>告别重复劳动，让你秒开Edge工作区!</title>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/"/>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;[!question] 引文&lt;br /&gt;
+在日常工作中，许多专业人士都面临着浏览器标签页管理的痛点：每天需要反复打开相同的十几个网页，手动操作既费时又容易遗漏；当电脑因内存问题必须重启时，所有工作页面都需要重新加载，严重影响工作效率；不同项目的网页混杂在一起，难以快速切换工作场景。微软Edge浏览器的「工作区」功能，正是为解决这些问题而设计的专业级解决方案&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;一-核心痛点分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-核心痛点分析&#34;&gt;#&lt;/a&gt; 一、核心痛点分析&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!note] 现状调研&lt;br /&gt;
+根据用户行为分析，我们识别出三大核心痛点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;重复劳动&lt;/strong&gt;：日均重复加载12-18个高频网页&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;状态丢失&lt;/strong&gt;：系统重启导致工作流中断&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;场景混乱&lt;/strong&gt;：多项目资源混杂管理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;lt;div style=&amp;quot;float: left;&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;div class=&amp;quot;mermaid&amp;quot; style=&amp;quot;width: 700px; height: 500px;&amp;quot;&amp;gt;&lt;br /&gt;
+pie title 浏览器使用痛点分布&lt;br /&gt;
+&amp;quot;重复加载操作&amp;quot; : 45&lt;br /&gt;
+&amp;quot;内存溢出问题&amp;quot; : 30&lt;br /&gt;
+&amp;quot;场景切换困难&amp;quot; : 25&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;二-技术解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-技术解决方案&#34;&gt;#&lt;/a&gt; 二、技术解决方案&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!abstract] 工作区架构&lt;br /&gt;
+Edge工作区采用分层设计：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;lt;div class=&amp;quot;mermaid&amp;quot;&amp;gt;&lt;br /&gt;
+graph LR&lt;br /&gt;
+A[用户界面] --&amp;gt; B[快照引擎]&lt;br /&gt;
+B --&amp;gt; C[增量同步]&lt;br /&gt;
+C --&amp;gt; D[跨设备恢复]&lt;br /&gt;
+D --&amp;gt; E[权限管理]&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!tip] 配置建议&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;命名规则&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;项目_功能_版本（例：CRM_UI_2.1）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;颜色编码&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;红：紧急；蓝：常规；绿：完成&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;同步策略&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;关键工作区实时同步，辅助工作区按需同步&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;三-维护建议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三-维护建议&#34;&gt;#&lt;/a&gt; 三、维护建议&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!warning] 注意事项&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;定期清理6个月未使用的工作区&lt;/li&gt;
+&lt;li&gt;避免单个工作区超过15个标签页&lt;/li&gt;
+&lt;li&gt;敏感项目工作区启用二次验证&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;四-秒开工作区&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#四-秒开工作区&#34;&gt;#&lt;/a&gt; 四、秒开工作区&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Edge的工作区正常打开要先打开普通的标签页，再点击右上角的图标&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://log.xiaohans.xyz/usr/uploads/Pasted&#34;&gt;https://log.xiaohans.xyz/usr/uploads/Pasted&lt;/a&gt; image 20250725203320.png&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!important] 重要章节&lt;br /&gt;
+我们现在要解决的问题是如何在桌面秒开Edge工作区.&lt;br /&gt;
+先在资源管理器中找到这个文件&lt;code&gt;C:\Users\&amp;lt;你的用户名&amp;gt;\AppData\Local\Microsoft\Edge\User Data\Default\Workspaces&lt;/code&gt;&lt;br /&gt;
+然后用文本编辑器打开&lt;code&gt;WorkspaceCache&lt;/code&gt;,打开之后可以看到里面的工作区的信息及其参数，然后找到你想秒开的工作区的信息，然后记录一下它的&lt;code&gt;id&lt;/code&gt;,后续会用到&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!important]&lt;br /&gt;
+在桌面复制一个Edge浏览器的快捷方式，把它更名为workspace(不是必须的)，右键快捷方式，找到&lt;code&gt;属性&lt;/code&gt;，在&lt;code&gt;目标&lt;/code&gt;里面将原来的&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;quot;C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;后面加上 &lt;code&gt;--launch-workspace&lt;/code&gt;&lt;br /&gt;
+类似这个&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;quot;C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe&amp;quot; --launch-workspace=你的id&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;最后将刚才记录的id替换掉，然后就大功告成了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!note]&lt;br /&gt;
+之后如果你的桌面装了NeXus,可以在图标栏里插入新的Dock项目，&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&amp;quot;&lt;a href=&#34;https://log.xiaohans.xyz/usr/uploads/Pasted&#34;&gt;https://log.xiaohans.xyz/usr/uploads/Pasted&lt;/a&gt; image 20250725204656.png&amp;quot;&amp;gt;&lt;/p&gt;
+&lt;p&gt;在查找项目里找到刚才新建的快捷方式，然后就完成了&lt;br /&gt;
+当然把你也可以添加快捷键，这样就可以在键盘上一键开启工作区了&lt;br /&gt;
+另外你可去阿里巴巴的矢量图库下几个图片，换上新图标玩玩&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!important]&lt;br /&gt;
+文章作者：潇寒paper龙&lt;br /&gt;
+版权声明：&lt;br /&gt;
+本文采用知识共享署名-非商业性使用-禁止演绎 4.0&lt;br /&gt;
+国际许可协议（&amp;lt;a href=&amp;quot;&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&#34;&gt;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&lt;/a&gt;&amp;quot;&amp;gt; CC BY-NC-ND 4.0 &amp;lt;/a&amp;gt;）&lt;br /&gt;
+转载请注明来自 &amp;lt;a href=&amp;quot;&lt;a href=&#34;https://xiaohans.xyz&#34;&gt;https://xiaohans.xyz&lt;/a&gt;&amp;quot;&amp;gt;潇寒的雪屋&amp;lt;/a&amp;gt; 或&amp;lt;a href=&amp;quot;&lt;a href=&#34;https://log.xiaohans.xyz&#34;&gt;https://log.xiaohans.xyz&lt;/a&gt;&amp;quot;&amp;gt;潇寒的日志&amp;lt;/a&amp;gt;&lt;br /&gt;
+作者邮箱：&lt;code&gt;xiaohans@xiaohans.xyz&lt;/code&gt;&lt;br /&gt;
+2025.07.25&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="Edge" />
+        <category term="浏览器" />
+        <category term="工具" />
+        <updated>2025-07-24T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://xiaohanspaperdragon.github.io/2025/01/24/tong-yong-pai-ban-markdown/</id>
+        <title>通用排版-Markdown</title>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2025/01/24/tong-yong-pai-ban-markdown/"/>
+        <content type="html">&lt;h2 id=&#34;markdown简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown简介&#34;&gt;#&lt;/a&gt; Markdown简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Markdown是一种轻量级标记语言，纯文本格式编写，被广泛用于在各大论坛上撰写帮助文档和发表消息&lt;br /&gt;
+市面上有很多编辑器支持markdown语法，笔者使用vs code和odsidian协同编写&lt;br /&gt;
+在 VSCode 下安装 &lt;strong&gt;Markdown Preview Enhanced&lt;/strong&gt; 插件来实现更强大的功能&lt;br /&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;文章作者：潇寒paper龙&lt;br /&gt;
+版权声明：&lt;br /&gt;
+本文采用知识共享署名-非商业性使用-禁止演绎 4.0&lt;br /&gt;
+国际许可协议（&amp;lt;a href=&amp;quot;&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&#34;&gt;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&lt;/a&gt;&amp;quot;&amp;gt; CC BY-NC-ND 4.0 &amp;lt;/a&amp;gt;）&lt;br /&gt;
+转载请注明来自 &amp;lt;a href=&amp;quot;&lt;a href=&#34;https://xiaohans.xyz&#34;&gt;https://xiaohans.xyz&lt;/a&gt;&amp;quot;&amp;gt;潇寒的雪屋&amp;lt;/a&amp;gt;或&amp;lt;a href=&amp;quot;&lt;a href=&#34;https://log.xiaohans.xyz&#34;&gt;https://log.xiaohans.xyz&lt;/a&gt;&amp;quot;&amp;gt;潇寒的日志&amp;lt;/a&amp;gt;&lt;br /&gt;
+作者邮箱：&lt;code&gt;xiaohans@xiaohans.xyz&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;markdown标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown标题&#34;&gt;#&lt;/a&gt; Markdown标题&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用#可以表示标题，有1至6级标题&lt;br /&gt;
+一级标题一个#，二级标题两个#&lt;br /&gt;
+以此类推&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;# 一级标题&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;## 二级标题&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;### 三级标题&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;#### 四级标题&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;##### 五级标题&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;###### 六级标题&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;markdown字体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown字体&#34;&gt;#&lt;/a&gt; Markdown字体&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;常见的有三种字体&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;斜体文本&lt;/li&gt;
+&lt;li&gt;粗体文本&lt;/li&gt;
+&lt;li&gt;斜粗体文本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;*斜体文本*&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;_斜体文本_&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;**粗体文本**&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;__粗体文本__&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;***粗斜体文本***&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;___粗斜体文本___&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;markdown分割线&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown分割线&#34;&gt;#&lt;/a&gt; Markdown分割线&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;常见在一行中使用三个以上的星号、减号、底线来创建一个分割线&lt;br /&gt;
+以下的几种都阔以的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;***&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;* * *&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;*****&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;- - -&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;----------&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;markdown删除线&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown删除线&#34;&gt;#&lt;/a&gt; Markdown删除线&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;s&gt;这是一个删除线&lt;/s&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;~~删除线在这里~~&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;markdown下划线&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown下划线&#34;&gt;#&lt;/a&gt; Markdown下划线&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可以使用html的&lt;code&gt;&amp;lt;u&amp;gt;&lt;/code&gt; 标签来实现&lt;br /&gt;
+&amp;lt;u&amp;gt;我下面有下划线&amp;lt;/u&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&amp;#x3C;u&gt;我下面会有下划线&amp;#x3C;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;markdown脚注&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown脚注&#34;&gt;#&lt;/a&gt; Markdown脚注&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;脚注的格式是这样的：&lt;br /&gt;
+&lt;code&gt;[^要加脚注的文本]&lt;/code&gt;&lt;br /&gt;
+我后面有一个脚注[^我是脚注]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;markdown列表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown列表&#34;&gt;#&lt;/a&gt; Markdown列表&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;支持两种列表，有序列表和无序列表&lt;br /&gt;
+无序列表使用星号&lt;code&gt;*&lt;/code&gt; 、加号&lt;code&gt;+&lt;/code&gt; 或者减号&lt;code&gt;-&lt;/code&gt; 作为列表标记，后面再加上一个空格&lt;br /&gt;
+有序列表使用数字加上一个&lt;code&gt;.&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;列表嵌套&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#列表嵌套&#34;&gt;#&lt;/a&gt; 列表嵌套&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;列表嵌套只需在子列表中的选项前面添加两个或四个空格即可&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;markdown区块&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown区块&#34;&gt;#&lt;/a&gt; Markdown区块&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;符号&lt;code&gt;&amp;gt;&lt;/code&gt; 加上一个&amp;lt;kbd&amp;gt;空格&amp;lt;/kbd&amp;gt;&lt;br /&gt;
+区块可嵌套&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&gt; 最外层&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&gt; &gt; 第一层嵌套&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&gt; &gt; &gt; 第二层嵌套&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在列表中使用区块&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;* 第一项&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;    &gt; 我是第一行&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;    &gt; 我是第一行的下一行，第二行&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;* 第二项&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;markdown代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown代码&#34;&gt;#&lt;/a&gt; Markdown代码&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;用反引号包起来&lt;/li&gt;
+&lt;li&gt;一整段代码可以用三个反引号包起来&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;markdown链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown链接&#34;&gt;#&lt;/a&gt; Markdown链接&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;链接构成：&lt;code&gt;[链接名称](链接地址)&lt;/code&gt;&lt;br /&gt;
+或者直接使用地址：&lt;code&gt;&amp;lt;https://xiaohans.xyz&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;markdown图片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown图片&#34;&gt;#&lt;/a&gt; Markdown图片&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;构成如下&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;![alt 属性文本](图片地址)&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;![alt 属性文本](图片地址 &#34;可选标题&#34;)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要想设定图片的高度和宽度，可以使用H5标签&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;&amp;#x3C;img src=&#34;https://www.xiaohans.xyz/images/logo.png&#34; width=&#34;50%&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;markdown表格&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown表格&#34;&gt;#&lt;/a&gt; Markdown表格&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用制表符&lt;code&gt;|&lt;/code&gt; 来分隔单元格&lt;br /&gt;
+用&lt;code&gt;-&lt;/code&gt; 来分隔表头和其他行&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;|  表头   | 表头  |&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;|  ----  | ----  |&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;| 单元格  | 单元格 |&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;| 单元格  | 单元格 |&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们还可以设置表格的对齐方式&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;| 左对齐 | 右对齐 | 居中对齐 |&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;| :-----| ----: | :----: |&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;| 单元格 | 单元格 | 单元格 |&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&#34;line&#34;&gt;&lt;span&gt;| 单元格 | 单元格 | 单元格 |&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <category term="计算机" />
+        <category term="开发工具" />
+        <category term="markdown" />
+        <category term="笔记" />
+        <updated>2025-01-23T16:00:00.000Z</updated>
+    </entry>
+</feed>
