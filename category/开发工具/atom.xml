@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io</id>
+    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
     <title>潇寒的日志 • Posts by &#34;开发工具&#34; category</title>
-    <link href="https://xiaohanspaperdragon.github.io" />
+    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
     <updated>2025-07-24T16:00:00.000Z</updated>
-    <category term="Edge" />
-    <category term="浏览器" />
-    <category term="工具" />
     <category term="散文" />
     <category term="月" />
     <category term="帝禹" />
     <category term="文学" />
+    <category term="Edge" />
+    <category term="浏览器" />
+    <category term="工具" />
     <category term="文学文化" />
     <category term="国学" />
     <category term="中庸" />
@@ -19,24 +19,24 @@
     <category term="我的世界" />
     <category term="MC" />
     <category term="Minecraft" />
+    <category term="中西文化比较" />
     <category term="屈原" />
     <category term="楚文化" />
-    <category term="中西文化比较" />
     <category term="计算机" />
     <category term="建站" />
     <category term="服务器" />
     <category term="域名" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="前端" />
     <category term="旧事重提" />
+    <category term="电气" />
+    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/</id>
         <title>告别重复劳动，让你秒开Edge工作区!</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2025/07/25/gao-bie-chong-fu-lao-dong-edge-gong-zuo-qu/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;[!question] 引文&lt;br /&gt;
 在日常工作中，许多专业人士都面临着浏览器标签页管理的痛点：每天需要反复打开相同的十几个网页，手动操作既费时又容易遗漏；当电脑因内存问题必须重启时，所有工作页面都需要重新加载，严重影响工作效率；不同项目的网页混杂在一起，难以快速切换工作场景。微软Edge浏览器的「工作区」功能，正是为解决这些问题而设计的专业级解决方案&lt;/p&gt;
@@ -149,9 +149,9 @@ D --&amp;gt; E[权限管理]&lt;br /&gt;
         <updated>2025-07-24T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2025/01/24/tong-yong-pai-ban-markdown/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2025/01/24/tong-yong-pai-ban-markdown/</id>
         <title>通用排版-Markdown</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2025/01/24/tong-yong-pai-ban-markdown/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2025/01/24/tong-yong-pai-ban-markdown/"/>
         <content type="html">&lt;h2 id=&#34;markdown简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown简介&#34;&gt;#&lt;/a&gt; Markdown简介&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Markdown是一种轻量级标记语言，纯文本格式编写，被广泛用于在各大论坛上撰写帮助文档和发表消息&lt;br /&gt;

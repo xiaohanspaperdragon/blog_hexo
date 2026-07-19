@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io</id>
+    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
     <title>潇寒的日志 • Posts by &#34;minecraft&#34; tag</title>
-    <link href="https://xiaohanspaperdragon.github.io" />
+    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
     <updated>2026-04-22T16:00:00.000Z</updated>
-    <category term="Edge" />
-    <category term="浏览器" />
-    <category term="工具" />
     <category term="散文" />
     <category term="月" />
     <category term="帝禹" />
     <category term="文学" />
+    <category term="Edge" />
+    <category term="浏览器" />
+    <category term="工具" />
     <category term="文学文化" />
     <category term="国学" />
     <category term="中庸" />
@@ -19,24 +19,24 @@
     <category term="我的世界" />
     <category term="MC" />
     <category term="Minecraft" />
+    <category term="中西文化比较" />
     <category term="屈原" />
     <category term="楚文化" />
-    <category term="中西文化比较" />
     <category term="计算机" />
     <category term="建站" />
     <category term="服务器" />
     <category term="域名" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="前端" />
     <category term="旧事重提" />
+    <category term="电气" />
+    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2026/04/23/kua-ban-ben-yin-xiang/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/23/kua-ban-ben-yin-xiang/</id>
         <title>跨版本印象</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2026/04/23/kua-ban-ben-yin-xiang/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/23/kua-ban-ben-yin-xiang/"/>
         <content type="html">&lt;p&gt;话接上文《首跨版本之变》，这一篇就简单说说我对 Minecraft 继水域更新之后，各个跨版本更新的印象。&lt;/p&gt;
 &lt;p&gt;很多具体机制在 wiki 上都能查到，&lt;a href=&#34;https://zh.minecraft.wiki/w/%E6%B0%B4%E5%9F%9F%E6%9B%B4%E6%96%B0&#34;&gt;中文 Minecraft wiki&lt;/a&gt; 里写得很详细，太过细碎和专业的东西我就不多赘述了。&lt;/p&gt;
 &lt;h2 id=&#34;水域更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#水域更新&#34;&gt;#&lt;/a&gt; 水域更新&lt;/h2&gt;

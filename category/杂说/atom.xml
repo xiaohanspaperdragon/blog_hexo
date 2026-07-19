@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io</id>
+    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
     <title>潇寒的日志 • Posts by &#34;杂说&#34; category</title>
-    <link href="https://xiaohanspaperdragon.github.io" />
+    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
     <updated>2026-04-01T16:00:00.000Z</updated>
-    <category term="Edge" />
-    <category term="浏览器" />
-    <category term="工具" />
     <category term="散文" />
     <category term="月" />
     <category term="帝禹" />
     <category term="文学" />
+    <category term="Edge" />
+    <category term="浏览器" />
+    <category term="工具" />
     <category term="文学文化" />
     <category term="国学" />
     <category term="中庸" />
@@ -19,24 +19,24 @@
     <category term="我的世界" />
     <category term="MC" />
     <category term="Minecraft" />
+    <category term="中西文化比较" />
     <category term="屈原" />
     <category term="楚文化" />
-    <category term="中西文化比较" />
     <category term="计算机" />
     <category term="建站" />
     <category term="服务器" />
     <category term="域名" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="前端" />
     <category term="旧事重提" />
+    <category term="电气" />
+    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2026/04/02/heng-xing-si-qu-zhi-hou/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/02/heng-xing-si-qu-zhi-hou/</id>
         <title>恒星死去之后，我诞生</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2026/04/02/heng-xing-si-qu-zhi-hou/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/04/02/heng-xing-si-qu-zhi-hou/"/>
         <content type="html">&lt;h1 id=&#34;仰望&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#仰望&#34;&gt;#&lt;/a&gt; 仰望&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我小的时候经常会抬头仰望天空。当我凝视星空的时候，或许会觉得我们与宇宙的距离是无比深邃的、遥不可及的。直观经验似乎将**“自我”&lt;strong&gt;与&lt;/strong&gt;“宇宙”**区隔开来。&lt;/p&gt;
@@ -64,9 +64,9 @@
         <updated>2026-04-01T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2026/03/31/pvz-jing-dian-yi-jiu/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/03/31/pvz-jing-dian-yi-jiu/</id>
         <title>pvz:经典依旧</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2026/03/31/pvz-jing-dian-yi-jiu/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/03/31/pvz-jing-dian-yi-jiu/"/>
         <content type="html">&lt;h2 id=&#34;序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#序&#34;&gt;#&lt;/a&gt; 序&lt;/h2&gt;
 &lt;p&gt;十二年前，只打到了银杯。&lt;br /&gt;
 十二年后，才拿到了金杯。&lt;/p&gt;
@@ -118,9 +118,9 @@ MAin MEnu&lt;/p&gt;
         <updated>2026-03-30T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2025/12/09/xu-ni-guo-yu-jian-zheng-quan/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2025/12/09/xu-ni-guo-yu-jian-zheng-quan/</id>
         <title>虚拟国与键政圈以及&#34;喷系的入侵&#34;</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2025/12/09/xu-ni-guo-yu-jian-zheng-quan/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2025/12/09/xu-ni-guo-yu-jian-zheng-quan/"/>
         <content type="html">&lt;h2 id=&#34;前言个人经历&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言个人经历&#34;&gt;#&lt;/a&gt; 前言（个人经历）&lt;/h2&gt;
 &lt;p&gt;2020年，新型冠状病毒肺炎疫情爆发。大家不得已居家学习办公。疫情在家属实无聊，唯一有兴趣的就是上网冲浪。我也是这一时期，加了一个关于MC的微信群，众所周知，有一些方块人的活力实在是无限的，很多pvp的玩家建立了各种公会，到处招募人才来壮大自己的队伍，然后各个公会就在很多服务器上进行pvp技术的对决。&lt;/p&gt;
 &lt;p&gt;那个时候，随着公会人数的增加，很多公会自发地形成类似网络虚拟国家的组织（其实就是以群为单位，当然这些在疫情之前也都是存在的）。我也是这个时候接触到了虚拟国，接着是键政圈，再最后就是臭名昭著的“喷系组织”了。&lt;br /&gt;
@@ -233,9 +233,9 @@ MAin MEnu&lt;/p&gt;
         <updated>2025-12-08T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2025/11/23/liang-zi-jiu-chan-yu-shi-dai-qing-nian/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/23/liang-zi-jiu-chan-yu-shi-dai-qing-nian/</id>
         <title>量子纠缠与时代青年：在不确定中寻找确定</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2025/11/23/liang-zi-jiu-chan-yu-shi-dai-qing-nian/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2025/11/23/liang-zi-jiu-chan-yu-shi-dai-qing-nian/"/>
         <content type="html">&lt;h2 id=&#34;摘要&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#摘要&#34;&gt;#&lt;/a&gt; 摘要&lt;/h2&gt;
 &lt;p&gt;量子纠缠这一深刻且颠覆性的物理概念，不仅改变了人类对微观世界的理解，也以一种隐秘而强大的方式影响着现代科技、社会结构与青年心态。当我们从《从爱因斯坦到霍金的宇宙》这门课程回望整部科学史，会发现：科学家在混沌中寻找规律、在不确定中寻找确定的探索精神，与新时代青年面对快速变化的世界时所需要的气质惊人地相似。本文试图从量子纠缠的科学内涵与应用出发，结合爱因斯坦、霍金等科学大师的经历，讨论量子思想如何映照现代社会的不确定性，并思考新时代青年如何在这种不确定性中找到属于自己的“相干态”。&lt;/p&gt;
 &lt;h2 id=&#34;关键词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关键词&#34;&gt;#&lt;/a&gt; 关键词&lt;/h2&gt;

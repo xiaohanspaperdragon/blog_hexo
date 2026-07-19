@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io</id>
+    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
     <title>潇寒的日志 • Posts by &#34;二次元&#34; category</title>
-    <link href="https://xiaohanspaperdragon.github.io" />
+    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
     <updated>2026-05-06T16:00:00.000Z</updated>
-    <category term="Edge" />
-    <category term="浏览器" />
-    <category term="工具" />
     <category term="散文" />
     <category term="月" />
     <category term="帝禹" />
     <category term="文学" />
+    <category term="Edge" />
+    <category term="浏览器" />
+    <category term="工具" />
     <category term="文学文化" />
     <category term="国学" />
     <category term="中庸" />
@@ -19,24 +19,24 @@
     <category term="我的世界" />
     <category term="MC" />
     <category term="Minecraft" />
+    <category term="中西文化比较" />
     <category term="屈原" />
     <category term="楚文化" />
-    <category term="中西文化比较" />
     <category term="计算机" />
     <category term="建站" />
     <category term="服务器" />
     <category term="域名" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="前端" />
     <category term="旧事重提" />
+    <category term="电气" />
+    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2026/05/07/aishiteru-no-tegami/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/07/aishiteru-no-tegami/</id>
         <title>愛してるの手紙</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2026/05/07/aishiteru-no-tegami/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/07/aishiteru-no-tegami/"/>
         <content type="html">&lt;p&gt;親愛なる、ギルベルト少佐&lt;/p&gt;
 &lt;p&gt;お元気ですか、お変わりないですか。今何処にいらっしゃいますか。困ったことはありませんか。&lt;/p&gt;
 &lt;p&gt;春も、夏も、秋も、冬も、いくつの季節が過ぎましたが、少佐のいらっしゃる季節だけが巡ってきません。&lt;/p&gt;

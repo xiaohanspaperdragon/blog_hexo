@@ -2,18 +2,18 @@
 <rss version="2.0">
     <channel>
         <title>潇寒的日志 • Posts by &#34;文学&#34; tag</title>
-        <link>https://xiaohanspaperdragon.github.io</link>
+        <link>https://xiaohanspaperdragon.github.io/blog_hexo</link>
         <description>潇寒paper龙的个人blog,记录我的互联网生活,分享我的文章、日常、动态</description>
         <language>zh-CN</language>
         <pubDate>Wed, 20 Nov 2024 00:00:00 +0800</pubDate>
         <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0800</lastBuildDate>
-        <category>Edge</category>
-        <category>浏览器</category>
-        <category>工具</category>
         <category>散文</category>
         <category>月</category>
         <category>帝禹</category>
         <category>文学</category>
+        <category>Edge</category>
+        <category>浏览器</category>
+        <category>工具</category>
         <category>文学文化</category>
         <category>国学</category>
         <category>中庸</category>
@@ -22,24 +22,24 @@
         <category>我的世界</category>
         <category>MC</category>
         <category>Minecraft</category>
+        <category>中西文化比较</category>
         <category>屈原</category>
         <category>楚文化</category>
-        <category>中西文化比较</category>
         <category>计算机</category>
         <category>建站</category>
         <category>服务器</category>
         <category>域名</category>
-        <category>电气</category>
-        <category>电气工程</category>
         <category>前端</category>
         <category>旧事重提</category>
+        <category>电气</category>
+        <category>电气工程</category>
         <category>开发工具</category>
         <category>markdown</category>
         <category>笔记</category>
         <item>
-            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/2024/11/20/di-yu-yu-yue/</guid>
+            <guid isPermalink="true">https://xiaohanspaperdragon.github.io/blog_hexo/2024/11/20/di-yu-yu-yue/</guid>
             <title>帝禹与月</title>
-            <link>https://xiaohanspaperdragon.github.io/2024/11/20/di-yu-yu-yue/</link>
+            <link>https://xiaohanspaperdragon.github.io/blog_hexo/2024/11/20/di-yu-yu-yue/</link>
             <category>散文</category>
             <category>月</category>
             <category>帝禹</category>

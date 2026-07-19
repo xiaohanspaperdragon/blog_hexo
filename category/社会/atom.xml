@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io</id>
+    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
     <title>潇寒的日志 • Posts by &#34;社会&#34; category</title>
-    <link href="https://xiaohanspaperdragon.github.io" />
+    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
     <updated>2026-05-13T16:00:00.000Z</updated>
-    <category term="Edge" />
-    <category term="浏览器" />
-    <category term="工具" />
     <category term="散文" />
     <category term="月" />
     <category term="帝禹" />
     <category term="文学" />
+    <category term="Edge" />
+    <category term="浏览器" />
+    <category term="工具" />
     <category term="文学文化" />
     <category term="国学" />
     <category term="中庸" />
@@ -19,24 +19,24 @@
     <category term="我的世界" />
     <category term="MC" />
     <category term="Minecraft" />
+    <category term="中西文化比较" />
     <category term="屈原" />
     <category term="楚文化" />
-    <category term="中西文化比较" />
     <category term="计算机" />
     <category term="建站" />
     <category term="服务器" />
     <category term="域名" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="前端" />
     <category term="旧事重提" />
+    <category term="电气" />
+    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2026/05/14/pi-wu-nao-fan-man-qing/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/14/pi-wu-nao-fan-man-qing/</id>
         <title>批无脑反满清的思潮：谁在用民族矛盾掩盖真正的问题</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2026/05/14/pi-wu-nao-fan-man-qing/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/14/pi-wu-nao-fan-man-qing/"/>
         <content type="html">&lt;p&gt;最近一两年，中文互联网突然出现了一股奇怪的风向：反满清情绪被重新包装、重新点燃、重新推上舆论场。更诡异的是，这股情绪并不是在讨论历史，也不是在反思制度，而是把近代中国落后的全部责任，简单粗暴地塞给一个已经消失百年的王朝。仿佛只要把满清骂得够狠，近代中国的所有问题就能自动解释，现实社会的所有矛盾也能自动消失。&lt;/p&gt;
 &lt;p&gt;这种叙事的最大问题，是它把历史复杂性压扁成一个情绪出口。近代落后？怪满清。工业化失败？怪满清。辛亥革命没带来强国？怪满清。民国军阀混战？还是怪满清。甚至到了今天，社会上出现任何问题，都能被某些人解释成“满遗阴谋”。这种逻辑的便利性在于，它不需要理解历史，也不需要面对现实，只需要一个可以随时发泄的“替罪羊”。&lt;/p&gt;
 &lt;p&gt;但真正危险的地方不止于此。&lt;/p&gt;
@@ -51,9 +51,9 @@
         <updated>2026-05-13T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2026/05/11/er-ci-yuan-shi-ge-kuang/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/11/er-ci-yuan-shi-ge-kuang/</id>
         <title>二次元是个筐，啥病都能往里装——批网上的反智评论</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2026/05/11/er-ci-yuan-shi-ge-kuang/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2026/05/11/er-ci-yuan-shi-ge-kuang/"/>
         <content type="html">&lt;p&gt;“总算有家长敢于直言二次元的不良影响了”——看看，评论区里这位高赞发言，字里行间那股“众人皆醉我独醒”的悲壮感，仿佛这位家长不是去商场投诉，而是堵了枪眼。&lt;/p&gt;
 &lt;p&gt;好家伙。一个孩子逃课、花钱、脾气大，不先问问自己家里多久没好好跟孩子吃顿饭了，不反思一下自己是不是除了给钱就是骂人，上来就给“二次元文化”定了性——毒害。这招高明啊。甩锅给一个虚拟世界，比照镜子容易多了。&lt;/p&gt;
 &lt;p&gt;再看评论区的表演，堪称当代互联网奇观大赏。&lt;/p&gt;

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaohanspaperdragon.github.io</id>
+    <id>https://xiaohanspaperdragon.github.io/blog_hexo</id>
     <title>潇寒的日志 • Posts by &#34;电气工程&#34; category</title>
-    <link href="https://xiaohanspaperdragon.github.io" />
+    <link href="https://xiaohanspaperdragon.github.io/blog_hexo" />
     <updated>2024-12-17T16:00:00.000Z</updated>
-    <category term="Edge" />
-    <category term="浏览器" />
-    <category term="工具" />
     <category term="散文" />
     <category term="月" />
     <category term="帝禹" />
     <category term="文学" />
+    <category term="Edge" />
+    <category term="浏览器" />
+    <category term="工具" />
     <category term="文学文化" />
     <category term="国学" />
     <category term="中庸" />
@@ -19,24 +19,24 @@
     <category term="我的世界" />
     <category term="MC" />
     <category term="Minecraft" />
+    <category term="中西文化比较" />
     <category term="屈原" />
     <category term="楚文化" />
-    <category term="中西文化比较" />
     <category term="计算机" />
     <category term="建站" />
     <category term="服务器" />
     <category term="域名" />
-    <category term="电气" />
-    <category term="电气工程" />
     <category term="前端" />
     <category term="旧事重提" />
+    <category term="电气" />
+    <category term="电气工程" />
     <category term="开发工具" />
     <category term="markdown" />
     <category term="笔记" />
     <entry>
-        <id>https://xiaohanspaperdragon.github.io/2024/12/18/zhong-guo-dian-qi-gong-cheng/</id>
+        <id>https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/18/zhong-guo-dian-qi-gong-cheng/</id>
         <title>中国电气工程发展与可再生能源创新应用的赛博报告</title>
-        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/2024/12/18/zhong-guo-dian-qi-gong-cheng/"/>
+        <link rel="alternate" href="https://xiaohanspaperdragon.github.io/blog_hexo/2024/12/18/zhong-guo-dian-qi-gong-cheng/"/>
         <content type="html">&lt;p&gt;#中国电气发展历史&lt;br /&gt;
 ##早期发展&lt;br /&gt;
 中国电气工程的发展历史是一部波澜壮阔的史诗，它不仅见证了中国从工业落后到现代化强国的转变，也映射了国家综合实力的飞跃。早期的中国电气工程起步于20世纪初，当时电力设施十分有限，主要集中在沿海城市和京津地区。1882年，中国第一家发电厂在上海落成，标志着中国电力工业的诞生。至1911年，全国发电设备装机总容量约为7.6万千瓦，上海电力工业初具规模。&lt;/p&gt;
